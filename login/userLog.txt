@@ -1,0 +1,1459 @@
+2019-01-04 12:17:08pm, admin, Logged in
+2019-01-08 02:51:19pm, admin, Logged in
+01.08.2019 02:51:29pm, admin, Added new content 1
+01.08.2019 02:51:32pm, admin, Added new content 2
+01.08.2019 02:51:34pm, admin, Added new content 3
+01.08.2019 02:51:37pm, admin, Added new content 4
+01.08.2019 02:51:39pm, admin, Added new content 5
+01.08.2019 02:51:42pm, admin, Added new content 6
+01.08.2019 02:51:44pm, admin, Added new content 7
+01.08.2019 02:51:46pm, admin, Added new content 8
+01.08.2019 02:51:49pm, admin, Added new content 9
+01.08.2019 02:51:51pm, admin, Added new content 10
+01.08.2019 02:51:53pm, admin, Added new content 11
+01.08.2019 02:51:55pm, admin, Added new content 12
+01.08.2019 02:51:58pm, admin, Added new content 13
+01.08.2019 02:52:00pm, admin, Added new content 14
+2019-01-18 10:10:10am, admin, Logged in
+2019-01-18 10:10:54am, admin, Changed settings
+2019-01-18 10:11:54am, admin, Logged out
+2019-01-18 10:30:11am, admin, Logged in
+2019-01-18 10:33:09am, admin, Added new slide Slider1
+2019-01-18 10:33:31am, admin, Added new slide Slider2
+2019-01-18 10:34:08am, admin, Added new slide Slider3
+01.18.2019 11:05:59am, admin, Added new content About Us
+2019-01-18 12:08:07pm, admin, Edited content: About Us
+2019-01-18 12:25:21pm, admin, Added new gallery Home
+2019-01-18 12:25:34pm, admin, Added new gallery About Us
+2019-01-18 12:26:33pm, admin, Added new gallery Puppies
+2019-01-18 12:26:38pm, admin, Added new gallery News
+2019-01-18 12:26:45pm, admin, Added new gallery Gallery
+2019-01-18 12:27:04pm, admin, Added new gallery Contact Us
+2019-01-18 12:49:00pm, admin, Added new submenu item Gallery1 to menu Gallery
+2019-01-18 12:49:09pm, admin, Added new submenu item Gallery2 to menu Gallery
+2019-01-18 12:49:25pm, admin, Added new submenu item Applications to menu Puppies
+2019-01-18 12:49:39pm, admin, Added new submenu item Upcoming Litter to menu Puppies
+2019-01-18 01:27:50pm, admin, Added new gallery Home Gallery
+2019-01-18 01:28:55pm, admin, Added new picture
+2019-01-18 01:29:11pm, admin, Added new picture
+2019-01-18 01:29:41pm, admin, Added new picture
+2019-01-18 01:30:20pm, admin, Added new picture
+2019-01-18 01:40:33pm, admin, Added new picture
+2019-01-18 01:40:44pm, admin, Added new picture
+2019-01-18 01:40:57pm, admin, Added new picture
+2019-01-18 01:41:17pm, admin, Added new picture
+2019-01-18 02:13:09pm, admin, Edited submenu item: Applications in menu Puppies
+2019-01-18 02:59:32pm, admin, Added new news Application page
+2019-01-20 08:57:53pm, admin, Logged in
+2019-01-20 09:06:19pm, admin, Edited submenu item: Gallery1 in menu Gallery
+2019-01-20 09:15:12pm, admin, Edited menu item: About Us
+2019-01-20 10:32:24pm, admin, Edited menu item: News
+2019-01-20 11:12:30pm, admin, Added new news Contact
+2019-01-20 11:15:23pm, admin, Edited menu item: Contact Us
+2019-01-20 11:28:58pm, admin, Added new news Galleries
+2019-01-21 09:04:46am, admin, Added new submenu item Testimonials to menu Puppies
+2019-01-21 09:18:38am, admin, Approved testimonial: This is a test testimonial. Here client adds his comment on adopted dog.
+2019-01-21 09:19:46am, admin, Edited submenu item: Testimonials in menu Puppies
+2019-01-21 09:28:27am, admin, Approved testimonial: Test testimonial about how adopted puppy id in his news family. Test testimonial about how adopted puppy id in his news family.  Test testimonial about how adopted puppy id in his news family.rnTest testimonial about how adopted puppy id in his news family.
+2019-01-21 10:09:42am, admin, Added new gallery FAQ
+2019-01-21 10:13:55am, admin, Added new faq Are your dogs trained?
+2019-01-21 10:14:48am, admin, Added new faq Do puppies get all shots they need?
+2019-01-21 11:33:01am, admin, Logged in
+2019-01-21 12:32:48pm, admin, Logged in
+2019-01-21 12:34:27pm, admin, Logged out
+2019-01-21 12:37:22pm, admin, Logged in
+2019-01-21 12:40:03pm, admin, Logged in
+2019-01-21 12:40:47pm, admin, Logged out
+2019-01-21 12:43:39pm, admin, Logged in
+2019-01-21 01:31:38pm, , Logged out
+2019-01-21 02:06:24pm, admin, Logged in
+2019-01-21 02:12:01pm, admin, Added new submenu item Gallery 3 to menu Gallery
+2019-01-21 02:21:37pm, admin, Approved question: What are your adoption policies2?
+2019-01-21 02:21:53pm, admin, Disapproved question: What are your adoption policies2?
+2019-01-21 02:29:34pm, admin, Added new user admin2
+2019-01-21 03:50:16pm, admin, Logged in
+2019-01-21 03:50:41pm, admin, Added new file File1
+2019-01-21 03:51:21pm, admin, Edited content: About Us
+2019-01-21 03:51:52pm, admin, Edited content: About Us
+2019-01-21 03:54:33pm, admin, Deleted file File1
+2019-01-21 03:54:50pm, admin, Added new file File1
+2019-01-21 03:55:25pm, admin, Edited content: About Us
+2019-01-21 03:58:59pm, admin, Deleted file File1
+2019-01-21 03:59:15pm, admin, Added new file File1
+2019-01-21 04:01:09pm, admin, Deleted file File1
+2019-01-21 04:01:21pm, admin, Added new file File1
+2019-01-21 04:02:04pm, admin, Added new file File2
+2019-01-21 04:02:11pm, admin, Deleted file File1
+2019-01-21 04:03:17pm, admin, Edited content: About Us
+2019-01-21 04:05:18pm, admin, Logged in
+2019-01-21 04:07:05pm, admin, Logged out
+2019-01-21 05:11:15pm, admin, Added new gallery History
+2019-01-21 05:12:00pm, admin, Deleted menu item History
+2019-01-21 05:13:05pm, admin, Added new gallery History
+2019-01-21 05:30:47pm, admin, Added new gallery Gallery 3
+2019-01-21 05:40:56pm, admin, Approved testimonial: this is an example 
+2019-01-21 05:49:18pm, admin, Approved question: What are your adoption policies2?
+2019-01-22 07:33:47am, admin, Logged in
+2019-01-22 08:11:43am, admin, Disapproved question: What are your adoption policies2?
+2019-01-22 08:16:24am, admin, Approved question: What are your adoption policies2?
+2019-01-22 09:34:40am, admin, Logged out
+2019-01-22 09:35:00am, admin, Logged in
+2019-01-22 09:41:54am, admin, Deleted menu item History
+2019-01-22 09:42:22am, admin, Logged out
+2019-01-22 09:44:29am, admin, Logged in
+2019-01-22 09:44:59am, admin, Logged out
+2019-01-22 09:59:12am, admin, Logged in
+2019-01-22 10:27:54am, admin, Logged in
+2019-01-22 02:17:10pm, admin, Logged in
+01.22.2019 02:19:10pm, admin, Added new content History
+2019-01-23 08:20:42am, admin, Logged in
+2019-01-23 08:28:29am, admin, Disapproved question: this is an example 
+2019-01-23 08:29:59am, admin, Approved testimonial: this is an example 
+2019-01-23 08:40:15am, admin, Disapproved question: What are your adoption policies2?
+2019-01-23 11:33:48am, admin, Logged in
+2019-01-23 11:54:53am, admin, Logged out
+2019-01-23 11:55:00am, admin, Logged in
+2019-01-23 12:05:01pm, admin, Added new gallery History
+2019-01-23 12:06:44pm, admin, Deleted menu item History
+2019-01-23 12:07:35pm, admin, Added new gallery History
+2019-01-23 12:15:04pm, admin, Added new submenu item History to menu History
+2019-01-23 12:15:55pm, admin, Deleted menu item History
+2019-01-23 12:16:56pm, admin, Added new submenu item Gallery 4 to menu Gallery
+2019-01-23 12:17:09pm, admin, Deleted submenu item Gallery 4
+2019-01-23 12:19:04pm, admin, Added new submenu item Gallery 4 to menu Gallery
+2019-01-23 12:24:23pm, admin, Logged out
+2019-01-24 08:01:54am, admin, Logged in
+2019-01-24 08:10:06am, admin, Added new gallery History
+2019-01-24 09:15:40am, admin, Logged in
+2019-01-24 09:16:59am, admin, Added new file pdf
+2019-01-24 09:18:42am, admin, Edited content: pdf history
+2019-01-24 09:26:15am, admin, Edited content: History
+2019-01-24 09:26:38am, admin, Deleted file pdf
+2019-01-24 09:37:49am, admin, Added new file pdf
+2019-01-24 09:38:58am, admin, Edited content: History
+2019-01-24 10:03:05am, admin, Logged out
+2019-01-24 10:03:28am, admin, Logged in
+2019-01-24 10:12:52am, admin, Logged out
+2019-01-24 10:13:28am, admin, Logged in
+2019-01-24 10:14:40am, admin, Logged in
+2019-01-24 11:18:17am, admin , Logged in
+2019-01-24 11:50:06am, admin, Logged in
+2019-01-24 12:26:53pm, admin, Logged in
+2019-01-24 03:20:47pm, admin, Logged in
+2019-01-24 03:42:09pm, admin, Logged in
+2019-01-24 03:42:36pm, admin, Logged out
+2019-01-24 03:42:44pm, superadmin, Logged in
+2019-01-24 03:44:51pm, superadmin, Logged out
+2019-01-24 03:44:56pm, admin, Logged in
+2019-01-24 03:50:13pm, admin, Logged out
+2019-01-24 05:23:05pm, admin, Logged in
+2019-01-25 07:50:03am, admin, Logged in
+2019-01-25 01:44:58pm, admin, Logged in
+2019-01-25 02:06:08pm, admin, Logged out
+2019-01-25 07:14:07pm, admin, Logged in
+2019-01-25 07:15:01pm, admin, Changed settings
+2019-01-25 07:15:26pm, admin, Changed settings
+2019-01-25 07:22:11pm, admin, Changed settings
+2019-01-25 07:27:35pm, admin, Logged in
+2019-01-25 07:44:50pm, admin, Edited submenu item: Gallery 4 in menu Gallery
+2019-01-25 07:48:54pm, admin, Logged out
+2019-01-25 08:37:02pm, admin, Logged in
+2019-01-25 08:37:30pm, admin, Logged out
+2019-01-25 08:50:53pm, admin, Logged in
+2019-01-26 06:45:14pm, admin, Logged in
+2019-01-26 06:46:19pm, admin, Edited content: History
+2019-02-06 10:13:19am, admin, Logged in
+2019-02-07 02:20:28pm, admin, Logged in
+2019-02-07 02:22:17pm, admin, Logged out
+2019-03-22 08:55:50am, admin, Logged in
+2019-03-22 08:56:12am, admin, Logged out
+2019-03-26 11:19:53am, admin, Logged in
+2019-03-26 01:01:32pm, admin, Logged in
+03.26.2019 01:01:39pm, admin, Added new content dsgsd
+2019-04-11 08:02:15am, admin, Logged in
+2019-04-11 08:19:58am, admin, Logged out
+2019-04-12 07:58:07am, admin, Logged in
+2019-04-12 07:59:56am, admin, Logged in
+2019-04-17 08:39:40am, admin, Logged in
+2019-05-08 07:32:48am, admin, Logged in
+2019-05-08 11:10:01am, admin, Logged in
+2019-05-10 07:52:16am, admin, Logged in
+2019-05-15 01:40:57pm, admin, Logged in
+2019-05-20 10:59:03am, admin, Logged in
+2019-05-20 11:05:13am, admin, Added new gallery Header
+2019-05-20 11:08:56am, admin, Added header image
+2019-05-21 08:21:22am, admin, Logged in
+2019-05-22 06:59:40am, admin, Logged in
+2019-05-22 07:17:37am, admin, Changed settings
+2019-05-22 07:18:17am, admin, Changed Social media links
+2019-05-22 07:19:52am, admin, Logged in
+2019-05-22 07:23:37am, admin, Changed settings
+2019-05-22 07:28:01am, admin, Edited header image
+2019-05-22 07:29:02am, admin, Logged in
+2019-05-22 07:32:30am, admin, Edited header image
+2019-05-22 07:32:38am, admin, Edited header image
+05.22.2019 07:34:24am, admin, Added new content Test s mobitela
+2019-05-22 07:41:56am, admin, Edited content: Test s mobitela
+2019-05-22 07:42:09am, admin, Edited content: Test s mobitela
+2019-05-22 07:42:37am, admin, Deleted content Test s mobitela
+2019-05-22 07:44:07am, admin, Added new news Test s mobitela
+2019-05-22 07:44:35am, admin, Edited news: Test s mobitela
+2019-05-22 07:44:50am, admin, Deleted news Test s mobitela
+2019-05-22 07:45:17am, admin, Added new gallery test
+2019-05-22 07:45:44am, admin, Edited menu item: test2
+2019-05-22 07:45:58am, admin, Deleted menu item test2
+2019-05-22 07:46:29am, admin, Added new submenu item Test s mobitela to menu History
+2019-05-22 07:46:50am, admin, Edited submenu item: Test s mobitela6 in menu History
+2019-05-22 07:47:02am, admin, Deleted submenu item Test s mobitela6
+2019-05-22 07:49:08am, admin, Added new gallery Test galerija
+2019-05-22 07:49:29am, admin, Edited gallery: Test galerija
+2019-05-22 07:49:53am, admin, Added new picture
+2019-05-22 07:50:46am, admin, Edited Gallery: Test
+2019-05-22 07:51:05am, admin, Added new picture
+2019-05-22 07:51:23am, admin, Added new picture
+2019-05-22 07:51:30am, admin, Deleted photo 301925Screenshot_20190521-091553.jpg from gallery Test galerija 5
+2019-05-22 07:51:40am, admin, Deleted photo 904273Screenshot_20190521-113333.jpg from gallery Test galerija 5
+2019-05-22 07:51:40am, admin, Deleted photo 547457Screenshot_20190521-101330.jpg from gallery Test galerija 5
+2019-05-22 07:51:50am, admin, Deleted gallery Test galerija 5
+2019-05-22 07:52:38am, admin, Added new slide Test
+2019-05-22 07:52:56am, admin, Edited slide: Test
+2019-05-22 07:53:11am, admin, Deleted slide Test
+2019-05-22 07:56:23am, admin, Added new file Ted4
+2019-05-22 07:56:46am, admin, Deleted file Ted4
+2019-05-22 08:51:42am, admin, Added answer to question: What are your adoption policies2?
+2019-05-22 08:51:48am, admin, Approved question: What are your adoption policies2?
+2019-05-22 08:51:51am, admin, Disapproved question: What are your adoption policies2?
+2019-05-22 08:52:13am, admin, Added new faq Trst
+2019-05-22 08:53:34am, admin, Added new user user3
+2019-05-22 08:57:35am, admin, Updated user user37
+2019-05-22 08:57:50am, admin, Deleted user admin
+2019-05-22 09:05:33am, admin, Logged in
+2019-05-22 09:05:46am, admin, Changed settings
+2019-05-22 09:06:37am, admin, Edited header image
+2019-05-22 09:06:38am, admin, Edited header image
+2019-05-22 09:06:46am, admin, Edited header image
+2019-05-22 09:13:24am, admin, Changed Social media links
+05.22.2019 09:14:14am, admin, Added new content test
+2019-05-22 09:15:27am, admin, Edited content: test
+2019-05-22 09:25:57am, admin, Deleted content test
+05.22.2019 09:26:06am, admin, Added new content test
+2019-05-22 09:32:08am, admin, Deleted content test
+2019-05-22 09:32:31am, admin, Added new news test news
+2019-05-22 09:32:54am, admin, Edited news: test news
+2019-05-22 09:33:14am, admin, Deleted news test news
+2019-05-22 09:33:28am, admin, Added new gallery test
+2019-05-22 09:33:36am, admin, Edited menu item: fytytgrtyfgtr
+2019-05-22 09:33:42am, admin, Deleted menu item fytytgrtyfgtr
+2019-05-22 09:34:04am, admin, Added new submenu item ggfgff to menu Gallery
+2019-05-22 09:34:10am, admin, Edited submenu item: ggfgfffytdthd in menu Gallery
+2019-05-22 09:34:18am, admin, Deleted submenu item ggfgfffytdthd
+2019-05-22 09:34:41am, admin, Edited gallery: Home Gallery
+2019-05-22 09:34:48am, admin, Edited gallery: Home Gallery1
+2019-05-22 09:36:03am, admin, Logged in
+2019-05-22 09:37:33am, admin, Logged in
+2019-05-22 09:40:20am, admin, Added new picture
+2019-05-22 09:43:20am, admin, Added new picture
+2019-05-22 09:43:39am, admin, Added new picture
+2019-05-22 09:43:43am, admin, Deleted photo 990129F22D2E9A-0B45-4B90-A5BC-DAC6357EB191.jpeg from gallery Home Gallery
+2019-05-22 09:43:51am, admin, Deleted photo 331558CA625FF5-2DC3-4296-8482-028797F40485.jpeg from gallery Home Gallery
+2019-05-22 09:43:51am, admin, Deleted photo 879350AE3DC7F7-2458-4C12-ADE2-9DDB7963C508.jpeg from gallery Home Gallery
+2019-05-22 09:44:24am, admin, Edited Gallery: dog8
+2019-05-22 09:44:33am, admin, Edited Gallery: dog89
+2019-05-22 10:15:34am, admin, Added new slide yftfe
+2019-05-22 10:15:48am, admin, Edited slide: yhhhhh
+2019-05-22 10:16:03am, admin, Deleted slide yhhhhh
+2019-05-22 10:16:28am, admin, Added new file gfgfg
+2019-05-22 10:16:43am, admin, Deleted file gfgfg
+2019-05-22 10:18:11am, admin, Added new user user4
+2019-05-22 10:18:28am, admin, Updated user user4
+2019-05-22 10:18:47am, admin, Deleted user admin
+2019-05-22 10:31:58am, admin, Logged in
+2019-05-22 10:32:11am, admin, Added new file test
+2019-05-22 10:32:16am, admin, Deleted file test
+2019-05-22 10:32:19am, admin, Deleted file pdf
+2019-05-22 10:32:23am, admin, Deleted file File2
+2019-05-22 10:32:36am, admin, Added new file slika
+2019-05-22 11:10:30am, admin, Logged in
+05.22.2019 12:08:22pm, admin, Added new content test
+2019-05-22 12:08:28pm, admin, Deleted content test
+05.22.2019 12:19:42pm, admin, Added new content test aaa
+2019-05-22 12:20:34pm, admin, Deleted content test aaa
+2019-05-22 12:25:28pm, admin, Logged in
+2019-05-22 12:27:12pm, admin, Changed settings
+2019-05-22 12:27:29pm, admin, Changed Social media links
+2019-05-22 12:29:03pm, admin, Edited header image
+2019-05-22 12:29:38pm, admin, Edited header image
+05.22.2019 12:31:24pm, admin, Added new content trstfgg
+2019-05-22 12:32:45pm, admin, Edited content: trstfgg
+2019-05-22 12:32:57pm, admin, Deleted content trstfgg
+2019-05-22 12:35:53pm, admin, Added new news test
+2019-05-22 12:36:11pm, admin, Edited news: test
+2019-05-22 12:36:20pm, admin, Deleted news test
+2019-05-22 12:39:06pm, admin, Added new gallery test
+2019-05-22 12:39:16pm, admin, Edited menu item: ggfgdtest
+2019-05-22 12:39:25pm, admin, Deleted menu item ggfgdtest
+2019-05-22 12:39:59pm, admin, Added new submenu item hgfhdhf to menu Contact Us
+2019-05-22 12:40:04pm, admin, Edited submenu item: hgfhdhffgdf in menu Contact Us
+2019-05-22 12:40:16pm, admin, Deleted submenu item hgfhdhffgdf
+2019-05-22 12:40:54pm, admin, Added new picture
+2019-05-22 12:41:01pm, admin, Deleted photo 971482A8B8BF59-89DC-4CC0-A36D-59DFAAD198CF.jpeg from gallery Gallery 3
+2019-05-22 12:41:24pm, admin, Edited Gallery: Dog1
+2019-05-22 12:42:09pm, admin, Added new slide fgg
+2019-05-22 12:42:52pm, admin, Edited slide: fggfgehf
+2019-05-22 12:43:07pm, admin, Deleted slide fggfgehf
+2019-05-22 12:44:26pm, admin, Added new file teddf
+2019-05-22 12:44:34pm, admin, Deleted file teddf
+2019-05-22 12:44:50pm, admin, Logged in
+2019-05-28 11:23:33am, admin, Logged in
+2019-06-12 06:56:30am, admin, Logged in
+2019-06-24 01:05:10pm, admin, Logged in
+2019-06-26 08:41:50am, admin, Logged in
+2019-06-26 08:42:39am, admin, Added new news hh
+2019-06-26 08:43:24am, admin, Added new news hshhs
+2019-06-26 08:43:52am, admin, Logged in
+2019-06-26 08:44:50am, admin, Logged in
+2019-06-26 08:45:40am, admin, Added new news Testhggk
+2019-06-26 08:46:10am, admin, Added new news Djfhko
+2019-06-26 08:49:28am, admin, Logged in
+2019-06-26 09:06:07am, admin, Logged in
+2019-06-26 09:14:05am, admin, Added new news okrenuta
+2019-06-26 09:15:07am, admin, Edited news: okrenuta
+2019-06-26 09:19:28am, admin, Deleted news okrenuta
+2019-06-26 09:19:33am, admin, Deleted news Djfhko
+2019-06-26 09:19:39am, admin, Deleted news Testhggk
+2019-06-26 09:19:43am, admin, Deleted news hshhs
+2019-06-26 09:19:47am, admin, Deleted news hh
+2019-06-26 09:23:11am, admin, Added new news okrenuta
+2019-06-26 09:26:50am, admin, Added new news sfasfas
+2019-06-26 10:07:25am, admin, Logged in
+2019-07-01 06:32:48am, admin, Logged in
+2019-07-01 06:45:02am, admin, Added new picture
+2019-07-01 06:45:49am, admin, Deleted photo 110561okrenuta2.jpg from gallery Gallery 3
+2019-07-01 06:46:02am, admin, Added new picture
+2019-07-01 06:46:16am, admin, Deleted photo 479305okrenuta2.jpg from gallery Gallery 3
+2019-07-01 06:47:20am, admin, Logged in
+2019-07-01 06:48:28am, admin, Deleted photo 440423image.jpg from gallery Gallery 3
+2019-07-01 06:49:08am, admin, Logged in
+2019-07-01 07:06:30am, admin, Added new picture
+2019-07-01 07:26:47am, admin, Deleted photo architectural-design-architecture-building-2559175.jpg from gallery Gallery 3
+2019-07-01 07:32:44am, admin, Deleted photo architectural-design-architecture-building-2559175.jpg from gallery Gallery 3
+2019-07-01 07:34:34am, admin, Deleted photo architectural-design-architecture-building-2559175.jpg from gallery Gallery 3
+2019-07-01 07:36:54am, admin, Deleted photo architectural-design-architecture-building-2559175.jpg from gallery Gallery 3
+2019-07-01 07:40:48am, admin, Deleted photo architectural-design-architecture-building-2559175.jpg from gallery Gallery 3
+2019-07-01 07:50:35am, admin, Deleted photo architectural-design-architecture-building-2559175.jpg from gallery Gallery 3
+2019-07-01 07:51:37am, admin, Deleted photo architectural-design-architecture-building-2559175.jpg from gallery Gallery 3
+2019-07-01 07:53:47am, admin, Deleted photo architectural-design-architecture-building-2559175.jpg from gallery Gallery 3
+2019-07-01 07:53:57am, admin, Added new picture
+2019-07-01 07:55:47am, admin, Deleted photo architectural-design-architecture-building-2559175.jpg from gallery Gallery 3
+2019-07-01 07:58:06am, admin, Deleted photo boy-child-childhood-1320701.jpg from gallery Gallery 3
+2019-07-01 07:58:28am, admin, Added new picture
+2019-07-01 08:00:11am, admin, Added new picture
+2019-07-01 08:01:05am, admin, Deleted photo velika.jpg from gallery Gallery 3
+2019-07-01 08:01:19am, admin, Added new picture
+2019-07-01 08:05:58am, admin, Added new picture
+2019-07-01 08:25:24am, admin, Added new picture
+2019-07-01 08:29:42am, admin, Deleted photo pas.png from gallery Gallery 3
+2019-07-01 08:38:33am, admin, Added new picture
+2019-07-01 08:39:33am, admin, Deleted photo pas.png from gallery Gallery 3
+2019-07-01 08:39:44am, admin, Added new picture
+2019-07-01 08:41:32am, admin, Deleted photo pas.png from gallery Gallery 3
+2019-07-01 08:41:56am, admin, Added new picture
+2019-07-01 08:42:29am, admin, Added new picture
+2019-07-01 08:52:45am, admin, Added new picture
+2019-07-01 08:54:26am, admin, Logged in
+2019-07-01 08:55:32am, admin, Added new picture
+2019-07-01 09:02:26am, admin, Added new picture
+2019-07-01 09:03:17am, admin, Deleted photo 8902C030-C76A-4DAC-8920-DA954FD412AF.jpeg from gallery Gallery 3
+2019-07-01 09:03:20am, admin, Deleted photo F99551E6-A111-42B5-9E85-7AE8E8D7FCA2.jpeg from gallery Gallery 3
+2019-07-01 09:03:43am, admin, Added new picture
+2019-07-01 09:05:08am, admin, Deleted photo 91D0B676-9FE7-40A8-84FD-E61D14BBDCB7.jpeg from gallery Gallery 3
+2019-07-01 09:05:21am, admin, Deleted photo slika_psa_elma.png from gallery Gallery 3
+2019-07-01 09:05:21am, admin, Deleted photo strelica.png from gallery Gallery 3
+2019-07-01 09:05:21am, admin, Deleted photo velika.jpg from gallery Gallery 3
+2019-07-01 09:05:21am, admin, Deleted photo 40784image.jpg from gallery Gallery 3
+2019-07-01 09:05:21am, admin, Deleted photo asasdasda.png from gallery Gallery 3
+2019-07-01 09:05:21am, admin, Deleted photo boy-child-childhood-1320701.jpg from gallery Gallery 3
+2019-07-01 09:05:21am, admin, Deleted photo eeeeee.jpg from gallery Gallery 3
+2019-07-01 09:05:22am, admin, Deleted photo 5.jpeg from gallery Gallery 3
+2019-07-01 09:05:25am, admin, Deleted photo  from gallery 
+2019-07-01 09:05:38am, admin, Added new picture
+2019-07-01 09:07:04am, admin, Added new picture
+2019-07-01 09:10:39am, admin, Deleted photo baa0e071488131.5bc71745d0066.jpg from gallery Gallery 3
+2019-07-01 09:10:43am, admin, Deleted photo 2620114D-81A9-4B24-B904-E2BB119248D6.jpeg from gallery Gallery 3
+2019-07-01 10:11:53am, admin, Logged in
+2019-07-01 10:12:19am, admin, Added new picture
+2019-07-01 10:13:15am, admin, Added new picture
+2019-07-01 10:16:37am, admin, Added new picture
+2019-07-01 10:24:30am, admin, Logged in
+2019-07-01 10:24:52am, admin, Added new picture
+2019-07-01 10:25:10am, admin, Deleted photo 143F68B4-78F6-4371-A8B7-403F75C02E6C.jpeg from gallery Gallery 3
+2019-07-01 10:27:40am, admin, Added new picture
+2019-07-01 10:29:17am, admin, Added new picture
+2019-07-01 10:35:45am, admin, Added new picture
+2019-07-01 10:36:53am, admin, Deleted photo image_2019_03_18T13_07_14_377Z.png from gallery Gallery 3
+2019-07-01 10:37:03am, admin, Added new picture
+2019-07-01 10:38:11am, admin, Added new picture
+2019-07-01 10:42:44am, admin, Deleted photo slider1.jpg from gallery Gallery 3
+2019-07-01 10:42:44am, admin, Deleted photo home.jpg from gallery Gallery 3
+2019-07-01 10:42:44am, admin, Deleted photo 2.jpg from gallery Gallery 3
+2019-07-01 10:42:44am, admin, Deleted photo 8.jpeg from gallery Gallery 3
+2019-07-01 10:42:44am, admin, Deleted photo 5.jpeg from gallery Gallery 3
+2019-07-01 10:42:44am, admin, Deleted photo 4.jpg from gallery Gallery 3
+2019-07-01 10:42:45am, admin, Deleted photo DBFC24FB-D3DB-4DC3-82B5-DB9812F95264.jpeg from gallery Gallery 3
+2019-07-01 10:42:58am, admin, Added new picture
+2019-07-01 10:45:16am, admin, Added new picture
+2019-07-01 10:45:50am, admin, Added new picture
+2019-07-01 10:55:30am, admin, Logged in
+2019-07-01 10:55:55am, admin, Added new picture
+2019-07-01 10:56:15am, admin, Deleted photo 08DBDA23-96DA-43C4-B90F-8AD33B4C98AF.jpeg from gallery Gallery 3
+2019-07-01 11:01:50am, admin, Deleted photo E7DACC26-D58C-461B-A4D6-75BDDC46FED5.jpeg from gallery Gallery 3
+2019-07-01 11:12:54am, admin, Deleted photo 4.jpg from gallery Gallery 3
+2019-07-01 11:14:49am, admin, Deleted photo 8.jpeg from gallery Gallery 3
+2019-07-01 11:16:50am, admin, Deleted photo 277F1A49-5DC2-450E-8D57-A30764D25907.jpeg from gallery Gallery 3
+2019-07-01 11:17:48am, admin, Deleted photo DCF12F63-0AAD-4E70-BF88-D00F50092D23.jpeg from gallery Gallery 3
+2019-07-01 11:44:33am, admin, Deleted photo E8397110-17F1-40AA-B7BC-AEF28FCEE65B.jpeg from gallery Gallery 3
+2019-07-01 11:46:06am, admin, Deleted photo 2C252DC3-7C32-4D4C-8062-28346AD225CB.jpeg from gallery Gallery 3
+2019-07-01 11:46:31am, admin, Deleted photo 7.jpeg from gallery Gallery 3
+2019-07-01 11:46:38am, admin, Added new picture
+2019-07-01 11:47:12am, admin, Added new picture
+2019-07-01 11:48:14am, admin, Added new picture
+2019-07-01 11:49:11am, admin, Deleted photo E62B66DF-80D7-4A25-874F-75F191E82008.jpeg from gallery Gallery 3
+2019-07-01 11:49:12am, admin, Deleted photo 3.jpg from gallery Gallery 3
+2019-07-01 11:49:12am, admin, Deleted photo B7EA5EDE-6342-4362-BF48-DF565FEC4AAF.jpeg from gallery Gallery 3
+2019-07-01 11:49:12am, admin, Deleted photo 6.jpeg from gallery Gallery 3
+2019-07-01 11:49:12am, admin, Deleted photo 5.jpeg from gallery Gallery 3
+2019-07-01 11:49:12am, admin, Deleted photo 1.jpg from gallery Gallery 3
+2019-07-01 11:54:05am, admin, Added new picture
+2019-07-01 11:57:47am, admin, Added new picture
+2019-07-01 11:58:15am, admin, Added new picture
+2019-07-01 11:59:29am, admin, Added new picture
+2019-07-01 12:00:11pm, admin, Deleted photo 3C585CF9-E062-4746-B895-E62DFC917AD2.jpeg from gallery Gallery 3
+2019-07-01 12:01:06pm, admin, Added new picture
+2019-07-01 12:01:23pm, admin, Deleted photo 023ADC74-E61E-4AC1-8487-7F6C4F8E9FF8.jpeg from gallery Gallery 3
+2019-07-01 12:01:42pm, admin, Logged in
+2019-07-01 12:01:58pm, admin, Added new picture
+2019-07-01 12:03:48pm, admin, Deleted photo D6A08A63-DEB4-49B2-9D36-CE1D4BC6D87F.jpeg from gallery Gallery 3
+2019-07-01 12:03:58pm, admin, Added new picture
+2019-07-01 12:06:35pm, admin, Added new picture
+2019-07-01 12:09:14pm, admin, Deleted photo 04A7F5ED-79BF-48F6-BFA0-046583FD9E3C.jpeg from gallery Gallery 3
+2019-07-01 12:09:18pm, admin, Deleted photo D30C5151-08DD-4ED0-B0A4-A91E656515C7.jpeg from gallery Gallery 3
+2019-07-01 12:09:25pm, admin, Added new picture
+2019-07-01 12:13:03pm, admin, Deleted photo 412284slider2.jpeg from gallery Home Gallery
+2019-07-01 12:13:03pm, admin, Deleted photo 281734pocetna.jpg from gallery Home Gallery
+2019-07-01 12:13:04pm, admin, Deleted photo 2029751.jpg from gallery Home Gallery
+2019-07-01 12:13:04pm, admin, Deleted photo 983605.jpeg from gallery Home Gallery
+2019-07-01 12:13:04pm, admin, Deleted photo 6245297.jpeg from gallery Home Gallery
+2019-07-01 12:13:04pm, admin, Deleted photo 635053promo-three-bg.jpg from gallery Home Gallery
+2019-07-01 12:13:04pm, admin, Deleted photo 8364858.jpeg from gallery Home Gallery
+2019-07-01 12:13:04pm, admin, Deleted photo 968306.jpeg from gallery Home Gallery
+2019-07-01 12:15:52pm, admin, Deleted photo 3.jpg from gallery Gallery 3
+2019-07-01 12:15:52pm, admin, Deleted photo 6.jpeg from gallery Gallery 3
+2019-07-01 12:15:52pm, admin, Deleted photo 3188AE74-1D9E-47AD-976E-A148E1CB479E.jpeg from gallery Gallery 3
+2019-07-01 12:15:52pm, admin, Deleted photo 5.jpeg from gallery Gallery 3
+2019-07-01 12:16:03pm, admin, Added new picture
+2019-07-01 12:16:58pm, admin, Deleted photo slika_psa_elma.png from gallery Gallery 3
+2019-07-01 12:17:26pm, admin, Added new picture
+2019-07-01 12:20:03pm, admin, Added new picture
+2019-07-01 12:22:07pm, admin, Deleted photo 347A6E5E-0FE4-45FD-AB94-8AF7E642B8EA.jpeg from gallery Gallery 3
+2019-07-01 12:22:07pm, admin, Deleted photo 3EFD85EA-A82B-49D7-9324-9DEF8932202C.jpeg from gallery Gallery 3
+2019-07-01 12:22:50pm, admin, Added new picture
+2019-07-01 12:23:56pm, admin, Added new picture
+2019-07-01 12:25:18pm, admin, Deleted photo 12FFD166-BD20-4A9C-8D59-0EC38750B957.jpeg from gallery Gallery 3
+2019-07-01 12:25:19pm, admin, Deleted photo 8FA7F296-41F6-42B4-B7A5-52227CB86BA7.jpeg from gallery Gallery 3
+2019-07-01 12:25:27pm, admin, Added new picture
+2019-07-01 12:26:19pm, admin, Added new picture
+2019-07-01 12:27:23pm, admin, Deleted photo 2.jpg from gallery Gallery 3
+2019-07-01 12:27:23pm, admin, Deleted photo 08E0921E-6CFD-43A5-8870-01C1C3151EFE.jpeg from gallery Gallery 3
+2019-07-01 12:27:53pm, admin, Added new picture
+2019-07-01 12:28:28pm, admin, Added new picture
+2019-07-01 12:29:20pm, admin, Deleted photo 4BB23FC2-D50E-4D0F-BE47-83F034EF4E44.jpeg from gallery Gallery 3
+2019-07-01 12:29:29pm, admin, Added new picture
+2019-07-01 12:36:05pm, admin, Deleted photo E00F152D-5563-4EB2-972E-A5985FC9970C.jpeg from gallery Gallery 3
+2019-07-01 12:36:14pm, admin, Added new picture
+2019-07-01 12:36:56pm, admin, Deleted photo 31157929-2428-4FF1-A5AA-3AAC213A4C58.jpeg from gallery Gallery 3
+2019-07-01 12:37:08pm, admin, Added new picture
+2019-07-01 12:38:14pm, admin, Deleted photo 7654D345-9F1A-492F-A8DB-BE1E8858419B.jpeg from gallery Gallery 3
+2019-07-01 12:38:23pm, admin, Added new picture
+2019-07-01 12:39:05pm, admin, Added new picture
+2019-07-01 12:47:25pm, admin, Deleted photo 4.jpg from gallery Gallery 3
+2019-07-01 12:47:25pm, admin, Deleted photo E0E323D5-F2F8-4021-8B4B-D4BB941D03F2.jpeg from gallery Gallery 3
+2019-07-01 12:47:25pm, admin, Deleted photo B276DB5D-C00F-40EF-9CE4-DCD13EE82013.jpeg from gallery Gallery 3
+2019-07-01 12:48:17pm, admin, Added new picture
+2019-07-01 12:48:26pm, admin, Added new picture
+2019-07-01 12:49:04pm, admin, Added new picture
+2019-07-01 12:49:12pm, admin, Added new picture
+2019-07-01 12:49:21pm, admin, Added new picture
+2019-07-01 12:49:28pm, admin, Added new picture
+2019-07-01 12:49:33pm, admin, Added new picture
+2019-07-01 12:49:40pm, admin, Added new picture
+2019-07-01 12:51:22pm, admin, Deleted photo 5.jpeg from gallery Home Gallery
+2019-07-01 12:51:22pm, admin, Deleted photo 2.jpg from gallery Home Gallery
+2019-07-01 12:51:22pm, admin, Deleted photo 3.jpg from gallery Home Gallery
+2019-07-01 12:51:22pm, admin, Deleted photo 1.jpg from gallery Home Gallery
+2019-07-01 12:51:22pm, admin, Deleted photo 4.jpg from gallery Home Gallery
+2019-07-01 12:51:22pm, admin, Deleted photo 6.jpeg from gallery Home Gallery
+2019-07-01 12:51:22pm, admin, Deleted photo 7.jpeg from gallery Home Gallery
+2019-07-01 12:51:22pm, admin, Deleted photo 8.jpeg from gallery Home Gallery
+2019-07-01 12:51:30pm, admin, Added new picture
+2019-07-01 12:54:06pm, admin, Added new picture
+2019-07-01 12:58:25pm, admin, Added new picture
+2019-07-01 01:02:35pm, admin, Added new picture
+2019-07-01 01:03:32pm, admin, Added new picture
+2019-07-01 01:10:09pm, admin, Added new picture
+2019-07-01 01:11:00pm, admin, Added new picture
+2019-07-01 01:12:24pm, admin, Added new picture
+2019-07-01 01:13:20pm, admin, Added new picture
+2019-07-01 01:14:07pm, admin, Added new picture
+2019-07-01 01:15:44pm, admin, Added new picture
+2019-07-01 01:23:03pm, admin, Added new picture
+2019-07-01 01:23:59pm, admin, Added new picture
+2019-07-01 01:27:53pm, admin, Added new picture
+2019-07-01 01:28:52pm, admin, Logged in
+2019-07-01 01:29:20pm, admin, Added new picture
+2019-07-01 01:34:14pm, admin, Deleted news Test
+2019-07-01 01:38:32pm, admin, Deleted news 4535
+2019-07-01 01:42:25pm, admin, Deleted news wetwe
+2019-07-01 01:42:41pm, admin, Added new news fsdfsdf
+2019-07-01 01:44:58pm, admin, Added new news sdfsdf
+2019-07-01 01:45:46pm, admin, Added new news wewetwewetwetwe
+2019-07-02 06:30:39am, admin, Logged in
+2019-07-02 06:30:44am, admin, Logged in
+2019-07-02 06:31:03am, admin, Deleted photo B6E19A0C-FF62-4ABD-BAC8-0F38D58E6CC4.jpeg from gallery Gallery 3
+2019-07-02 06:31:03am, admin, Deleted photo boy-child-childhood-1320701.jpg from gallery Gallery 3
+2019-07-02 06:31:03am, admin, Deleted photo IMG_20190701_132309.jpg from gallery Gallery 3
+2019-07-02 06:31:03am, admin, Deleted photo women.jpg from gallery Gallery 3
+2019-07-02 06:31:03am, admin, Deleted photo C65B5756-39E6-4E35-AD17-86818D72B891.jpeg from gallery Gallery 3
+2019-07-02 06:31:03am, admin, Deleted photo 39D4CD17-AC37-45C6-95DC-201C6D31658B.jpeg from gallery Gallery 3
+2019-07-02 06:31:03am, admin, Deleted photo small.jpg from gallery Gallery 3
+2019-07-02 06:32:21am, admin, Added new picture
+2019-07-02 06:41:53am, admin, Logged in
+2019-07-02 06:42:18am, admin, Added new picture
+2019-07-02 07:21:15am, , Added new picture
+2019-07-02 07:22:01am, admin, Logged in
+2019-07-02 07:24:09am, admin, Deleted photo 90934Screenshot_1.png from gallery Gallery 3
+2019-07-02 07:24:12am, admin, Deleted photo 85080144FB57DD-BDA0-4DA5-B0F6-34EA939B925A.jpeg from gallery Gallery 3
+2019-07-02 07:24:15am, admin, Deleted photo 19334D13B31BF-E87C-4003-B5D8-3EBE971AE89A.jpeg from gallery Gallery 3
+2019-07-02 07:25:15am, admin, Added new picture
+2019-07-02 07:27:57am, admin, Deleted photo 407551ccc90934Screenshot_1.png from gallery Gallery 3
+2019-07-02 07:28:16am, admin, Added new picture
+2019-07-02 07:30:08am, admin, Deleted photo 309113Screenshot_1.png from gallery Gallery 3
+2019-07-02 07:30:37am, admin, Added new picture
+2019-07-02 07:31:44am, admin, Deleted photo 534311Screenshot_1.png from gallery Gallery 3
+2019-07-02 07:31:54am, admin, Added new picture
+2019-07-02 07:32:58am, admin, Deleted photo 236123Screenshot_1.png from gallery Gallery 3
+2019-07-02 07:33:24am, admin, Added new picture
+2019-07-02 07:33:37am, admin, Deleted photo 533911Screenshot_1.png from gallery Gallery 3
+2019-07-02 07:33:45am, admin, Added new picture
+2019-07-02 07:33:58am, admin, Deleted photo 936886Screenshot_1.png from gallery Gallery 3
+2019-07-02 07:34:08am, admin, Added new picture
+2019-07-02 07:36:19am, admin, Deleted photo 852924Screenshot_1.png from gallery Gallery 3
+2019-07-02 07:36:28am, admin, Added new picture
+2019-07-02 07:37:31am, admin, Deleted photo 291277Screenshot_1.png from gallery Gallery 3
+2019-07-02 07:37:49am, admin, Added new picture
+2019-07-02 07:39:02am, admin, Deleted photo 791037Screenshot_1.png from gallery Gallery 3
+2019-07-02 07:39:13am, admin, Added new picture
+2019-07-02 09:28:18am, admin, Logged in
+2019-07-02 09:51:14am, admin, Added new picture
+2019-07-02 09:52:37am, admin, Added new picture
+2019-07-02 09:57:18am, admin, Added new picture
+2019-07-02 10:00:24am, admin, Deleted photo 239856women.jpg from gallery Gallery 3
+2019-07-02 10:00:37am, admin, Added new picture
+2019-07-02 10:29:25am, , Added new picture
+2019-07-02 10:29:31am, admin, Logged in
+2019-07-02 10:29:38am, admin, Deleted photo 138393small.jpg from gallery Gallery 3
+2019-07-02 10:29:50am, admin, Added new picture
+2019-07-02 10:33:03am, admin, Logged in
+2019-07-02 10:33:33am, admin, Added new picture
+2019-07-02 10:39:19am, admin, Added new picture
+2019-07-02 10:44:02am, admin, Logged out
+2019-07-02 10:44:10am, admin, Logged in
+2019-07-02 10:55:03am, admin, Added new gallery test
+2019-07-02 10:55:07am, admin, Deleted gallery test
+2019-07-02 10:58:56am, admin, Added new picture
+2019-07-02 11:16:54am, admin, Edited Gallery: 
+2019-07-02 11:17:49am, admin, Edited Gallery: ertwetwetwe
+2019-07-02 11:18:47am, admin, Edited Gallery: teeest
+2019-07-02 11:19:03am, admin, Edited new picture
+2019-07-02 11:19:03am, admin, Edited Gallery: teeeststgasdtsdtsdt
+2019-07-02 11:32:49am, admin, Added new news Test news
+2019-07-02 11:52:46am, admin, Added new news ettq
+2019-07-02 12:51:39pm, admin, Deleted news ettq
+2019-07-02 12:52:23pm, admin, Added new news Testna novost lalalal
+2019-07-02 01:34:34pm, admin, Made article "Testna novost lalalal" not visible
+2019-07-02 01:42:57pm, admin, Added new news Nova novostr
+2019-07-02 01:43:13pm, admin, Made article "Nova novostr" not visible
+2019-07-02 01:43:21pm, admin, Made article "Nova novostr" visible
+2019-07-02 01:47:23pm, admin, Added new news asdasdasdas
+2019-07-02 01:48:15pm, admin, Added new news afasfasfasf
+2019-07-02 01:49:14pm, admin, Added new news sdgsdgsdg
+2019-07-02 01:49:55pm, admin, Made article "sdgsdgsdg" not visible
+2019-07-02 02:25:01pm, admin, Added new picture
+2019-07-03 06:33:56am, admin, Logged in
+2019-07-03 06:51:56am, admin, Deleted news sdgsdgsdg
+2019-07-03 06:52:00am, admin, Deleted news afasfasfasf
+2019-07-03 06:52:04am, admin, Deleted news asdasdasdas
+2019-07-03 06:52:08am, admin, Deleted news Nova novostr
+2019-07-03 06:52:12am, admin, Deleted news Testna novost lalalal
+2019-07-03 06:52:15am, admin, Deleted news Test news
+2019-07-03 06:52:20am, admin, Deleted news wewetwewetwetwe
+2019-07-03 06:52:23am, admin, Deleted news sdfsdf
+2019-07-03 06:52:27am, admin, Deleted news fsdfsdf
+2019-07-03 06:52:32am, admin, Deleted news sfasfas
+2019-07-03 06:52:36am, admin, Deleted news okrenuta
+2019-07-03 07:33:57am, admin, Logged in
+2019-07-03 07:38:14am, admin, Made article "Galleries" not visible
+2019-07-03 07:38:20am, admin, Made article "Galleries" visible
+2019-07-03 08:16:28am, admin, Deleted photo 153292women.jpg from gallery Gallery 3
+2019-07-03 08:18:46am, admin, Deleted photo 861155women.jpg from gallery Gallery 3
+2019-07-03 08:21:46am, admin, Deleted photo 992633women.jpg from gallery Gallery 3
+2019-07-03 08:21:57am, admin, Added new picture
+2019-07-03 08:22:53am, admin, Deleted photo 22240women.jpg from gallery Gallery 3
+2019-07-03 08:23:03am, admin, Added new picture
+2019-07-03 08:24:26am, admin, Deleted photo 724981women.jpg from gallery Gallery 3
+2019-07-03 08:24:35am, admin, Added new picture
+2019-07-03 08:26:24am, admin, Deleted photo 526814women.jpg from gallery Gallery 3
+2019-07-03 08:27:34am, admin, Deleted photo 56281women.jpg from gallery Gallery 3
+2019-07-03 08:27:43am, admin, Added new picture
+2019-07-03 08:29:58am, admin, Deleted photo 219875women.jpg from gallery Gallery 3
+2019-07-03 08:31:15am, admin, Added new picture
+2019-07-03 08:32:24am, admin, Deleted photo 512897women.jpg from gallery Gallery 3
+2019-07-03 08:33:53am, admin, Deleted photo 685842women.jpg from gallery Gallery 3
+2019-07-03 08:34:03am, admin, Added new picture
+2019-07-03 08:35:00am, admin, Deleted photo 704371women.jpg from gallery Gallery 3
+2019-07-03 08:35:10am, admin, Added new picture
+2019-07-03 08:35:45am, admin, Deleted photo 504119women.jpg from gallery Gallery 3
+2019-07-03 08:35:58am, admin, Added new picture
+2019-07-03 08:37:54am, admin, Deleted photo 738369women.jpg from gallery Gallery 3
+2019-07-03 08:38:03am, admin, Added new picture
+2019-07-03 08:38:26am, admin, Deleted photo 508032women.jpg from gallery Gallery 3
+2019-07-03 08:38:35am, admin, Added new picture
+2019-07-03 08:41:34am, admin, Added new picture
+2019-07-03 08:42:13am, admin, Deleted photo 270003women.jpg from gallery Gallery 3
+2019-07-03 08:42:42am, admin, Added new picture
+2019-07-03 08:47:25am, admin, Deleted photo 519696women.jpg from gallery Gallery 3
+2019-07-03 08:47:28am, admin, Deleted photo 645311women.jpg from gallery Gallery 3
+2019-07-03 08:47:39am, admin, Added new picture
+2019-07-03 08:55:36am, admin, Deleted photo 450477Affenpinscher.jpg from gallery Gallery 3
+2019-07-03 08:55:36am, admin, Deleted photo 825625small.jpg from gallery Gallery 3
+2019-07-03 08:55:36am, admin, Deleted photo 9436693.jpg from gallery Gallery 3
+2019-07-03 08:55:36am, admin, Deleted photo 551267boy-child-childhood-1320701.jpg from gallery Gallery 3
+2019-07-03 08:55:36am, admin, Deleted photo 1945842.jpg from gallery Gallery 3
+2019-07-03 08:55:37am, admin, Deleted photo 649389women.jpg from gallery Gallery 3
+2019-07-03 08:55:37am, admin, Deleted photo 690019slika_psa_elma.png from gallery Gallery 3
+2019-07-03 08:55:37am, admin, Deleted photo 806146Affenpinscher.jpg from gallery Gallery 3
+2019-07-03 08:55:37am, admin, Deleted photo 489605women.jpg from gallery Gallery 3
+2019-07-03 09:01:29am, admin, Added new picture
+2019-07-03 09:03:16am, admin, Added new picture
+2019-07-03 09:04:30am, admin, Changed settings
+2019-07-03 09:04:43am, admin, Added new picture
+2019-07-03 09:05:49am, admin, Added new picture
+2019-07-03 09:08:32am, admin, Added new picture
+2019-07-03 09:09:35am, admin, Deleted photo 6319314.jpg from gallery Gallery 3
+2019-07-03 09:09:35am, admin, Deleted photo 234420boy-child-childhood-1320701.jpg from gallery Gallery 3
+2019-07-03 09:09:35am, admin, Deleted photo 5907851.jpg from gallery Gallery 3
+2019-07-03 09:09:35am, admin, Deleted photo 71956women.jpg from gallery Gallery 3
+2019-07-03 09:09:35am, admin, Deleted photo 568714small.jpg from gallery Gallery 3
+2019-07-03 09:44:19am, admin, Added new picture
+2019-07-03 09:51:08am, admin, Updated user admin
+2019-07-03 09:51:48am, admin, Logged out
+2019-07-03 09:52:00am, admin, Logged in
+2019-07-03 10:32:02am, admin, Logged in
+2019-07-03 10:45:55am, admin, Logged in
+2019-07-03 11:00:56am, admin, Added new picture
+2019-07-03 11:24:55am, admin, Added new news New article
+2019-07-03 11:36:35am, admin, Added new news dasd
+2019-07-03 11:41:28am, admin, Added new news faef
+2019-07-05 08:38:28am, admin, Logged in
+2019-07-05 08:38:40am, admin, Edited Gallery: vxvx
+2019-07-05 08:41:32am, admin, Logged out
+2019-07-05 09:10:12am, admin, Logged in
+2019-07-05 10:02:57am, admin, Logged in
+2019-07-08 06:49:15am, superadmin, Logged in
+2019-07-10 08:39:22am, admin, Logged in
+2019-07-11 11:14:29am, admin, Logged in
+2019-07-16 07:49:16am, admin, Logged in
+2019-07-18 10:29:29am, superadmin, Logged in
+2019-07-18 10:29:39am, superadmin, Deleted news faef
+2019-07-18 10:29:43am, superadmin, Deleted news dasd
+2019-07-18 10:29:47am, superadmin, Deleted news New article
+2019-07-18 10:33:11am, admin, Logged in
+2019-07-24 01:05:24pm, admin, Logged in
+2019-07-24 01:06:14pm, admin, Edited header image
+2019-07-24 01:16:36pm, admin, Added new picture
+2019-07-25 11:06:56am, admin, Logged in
+2019-07-25 11:07:07am, admin, Edited header image
+2019-07-25 11:43:11am, admin, Edited header image
+2019-07-25 01:37:17pm, admin, Added new news This is a new article
+2019-07-30 06:59:19am, admin, Logged in
+2019-07-30 06:59:23am, admin, Logged out
+2019-07-30 08:48:46am, admin, Logged in
+2019-07-30 08:49:03am, admin, Added new user test
+2019-07-31 07:10:51am, admin, Logged in
+2019-07-31 07:12:44am, admin, Logged in
+2019-07-31 11:05:58am, admin, Logged in
+2019-07-31 11:27:36am, admin, Logged in
+2019-07-31 11:32:27am, admin, Logged out
+2019-07-31 11:32:45am, admin, Logged in
+2019-07-31 12:06:24pm, admin, Logged in
+2019-08-01 12:27:18pm, admin, Logged in
+2019-08-01 01:18:56pm, admin, Logged in
+2019-08-02 10:50:48am, admin, Logged in
+2019-08-02 11:14:05am, admin, Disapproved question: Do puppies get all shots they need?
+2019-08-02 11:14:09am, admin, Approved question: Do puppies get all shots they need?
+2019-08-02 11:38:05am, admin, Added answer to question: Trst
+2019-08-02 11:41:38am, admin, Disapproved question: Trst
+2019-08-02 11:41:43am, admin, Approved question: Trst
+2019-08-05 06:35:23am, admin, Logged in
+2019-08-05 07:37:38am, admin, Logged in
+2019-08-05 10:31:11am, admin, Logged in
+2019-08-05 11:07:46am, admin, Logged in
+2019-08-08 01:06:46pm, admin, Logged in
+2019-08-14 09:51:34am, admin, Logged in
+2019-08-14 10:01:42am, admin, Logged out
+2019-08-14 10:01:54am, admin, Logged in
+2019-08-14 10:20:20am, admin, Made article "This is a new article" not visible
+2019-08-14 10:20:24am, admin, Made article "This is a new article" visible
+2019-08-14 11:24:35am, admin, Logged in
+2019-08-14 12:44:40pm, admin, Logged in
+2019-08-15 01:19:41pm, admin, Logged in
+2019-08-15 01:31:57pm, admin, Edited gallery: Home Gallery
+2019-08-15 01:33:57pm, admin, Edited slide: Slider3
+2019-08-16 11:25:28am, admin, Logged in
+2019-08-16 11:31:49am, admin, Added new shop group test
+2019-08-16 11:31:53am, admin, Edited product group: test
+2019-08-16 11:31:55am, admin, Edited product group: testere
+2019-08-16 11:32:03am, admin, Deleted shop group testere
+2019-08-16 11:32:21am, admin, Added new product ere
+2019-08-16 11:37:34am, admin, Edited product: ere asd asd asdas
+2019-08-16 11:45:22am, admin, Added new product picture
+2019-08-16 11:45:26am, admin, Deleted photo 268209simmons.jpg from gallery Product Photos
+2019-08-16 11:45:49am, admin, Edited product: ere asd asd asdas
+2019-08-16 11:47:03am, admin, Edited Authorize Customer: fdg fnameSD FSDF SD dfg lanmeFSDFSDF
+2019-08-16 11:47:34am, admin, Edited Paypal Customer: testSDFSD buyerFSDFSD
+2019-08-21 09:13:53am, admin, Logged in
+2019-08-21 10:18:33am, admin, Logged in
+2019-08-21 12:28:24pm, admin, Logged in
+2019-08-21 01:03:23pm, admin, Added new picture
+2019-08-21 01:03:30pm, admin, Deleted photo 898684showsight cover.png from gallery Gallery 3
+2019-09-02 06:34:35am, admin2, Logged in
+2019-09-02 06:48:00am, admin, Logged in
+2019-09-02 07:29:46am, superadmin, Logged in
+2019-09-02 08:59:51am, superadmin, Logged in
+2019-09-02 09:46:32am, superadmin, Added new news sdgsdg
+2019-09-02 09:46:55am, superadmin, Made article "sdgsdg" not visible
+2019-09-02 10:08:24am, superadmin, Added new news Test s mobitela
+2019-09-02 10:08:36am, superadmin, Made article "Test s mobitela" not visible
+2019-09-02 10:13:21am, superadmin, Added new news Test 5
+2019-09-02 10:13:29am, superadmin, Made article "Test 5" not visible
+2019-09-02 10:14:24am, superadmin, Deleted news Test 5
+2019-09-02 10:15:14am, superadmin, Deleted news Test s mobitela
+2019-09-02 10:15:18am, superadmin, Deleted news sdgsdg
+2019-09-03 06:13:09am, superadmin, Logged in
+2019-09-03 08:36:50am, superadmin, Logged in
+2019-09-03 08:56:47am, admin, Logged in
+2019-09-03 09:39:41am, superadmin, Logged in
+2019-09-03 11:52:37am, admin, Logged in
+2019-09-04 06:32:04am, superadmin, Logged in
+2019-09-04 06:59:08am, superadmin, Added new picture
+2019-09-04 06:59:17am, superadmin, Deleted photo 207215IMG_5039.jpg from gallery Gallery 3
+2019-09-04 07:01:41am, superadmin, Added new picture
+2019-09-04 07:03:43am, superadmin, Deleted photo 958632IMG_5039.jpg from gallery Gallery 3
+2019-09-04 07:04:05am, superadmin, Added new picture
+2019-09-04 07:05:52am, superadmin, Deleted photo 864276IMG_5044.jpg from gallery Gallery 3
+2019-09-04 07:06:27am, superadmin, Added new picture
+2019-09-04 07:15:12am, superadmin, Deleted photo 398068IMG_5041.jpg from gallery Gallery 3
+2019-09-04 07:15:46am, superadmin, Added new picture
+2019-09-04 07:17:10am, superadmin, Deleted photo 950500IMG_5050.jpg from gallery Gallery 3
+2019-09-04 07:21:06am, superadmin, Added new picture
+2019-09-04 07:46:25am, superadmin, Added new gallery Test
+2019-09-04 07:46:25am, superadmin, Added new picture
+2019-09-04 09:50:29am, superadmin, Logged in
+2019-09-04 12:17:51pm, admin, Logged in
+2019-09-04 12:20:48pm, admin, Logged out
+2019-09-04 12:20:55pm, admin, Logged in
+2019-09-04 12:24:59pm, admin, Logged in
+2019-09-04 12:37:03pm, admin, Logged in
+2019-09-04 12:38:17pm, admin, Logged in
+2019-09-04 12:43:17pm, admin, Logged out
+2019-09-04 12:43:27pm, admin, Logged in
+2019-09-04 12:45:22pm, admin, Logged out
+2019-09-04 12:45:35pm, admin, Logged in
+2019-09-04 01:08:08pm, admin, Logged in
+2019-09-04 01:19:57pm, admin, Logged out
+2019-09-04 01:38:26pm, admin, Logged in
+2019-09-06 06:49:26am, superadmin, Logged in
+2019-09-06 07:20:04am, superadmin, Added new picture
+2019-09-06 07:20:47am, superadmin, Deleted photo 238625logo.png from gallery Gallery 3
+2019-09-06 07:21:06am, superadmin, Added new picture
+2019-09-06 07:23:20am, superadmin, Deleted photo 208207paralax.jpg from gallery Gallery 3
+2019-09-06 07:24:01am, superadmin, Added new picture
+2019-09-06 07:33:26am, superadmin, Deleted photo 982251paralax.jpg from gallery Test
+2019-09-06 07:34:07am, superadmin, Added new picture
+2019-09-06 07:41:42am, superadmin, Deleted photo 63569dogs.jpeg from gallery Test
+2019-09-06 07:46:47am, superadmin, Logged out
+2019-09-06 07:46:59am, superadmin, Logged in
+2019-09-06 07:47:42am, superadmin, Added new picture
+2019-09-06 07:51:19am, superadmin, Added new picture
+2019-09-06 07:52:33am, superadmin, Deleted photo 632370dogprofile.png from gallery Test
+2019-09-06 07:52:37am, superadmin, Deleted photo 691122home.jpg from gallery Test
+2019-09-06 07:53:16am, superadmin, Added new picture
+2019-09-06 08:01:17am, superadmin, Added new picture
+2019-09-06 08:31:08am, superadmin, Added new picture
+2019-09-06 08:32:14am, superadmin, Added new picture
+2019-09-06 08:33:17am, superadmin, Deleted photo 6023176.jpeg from gallery Test
+2019-09-06 08:33:28am, superadmin, Deleted photo 224965dogbg.png from gallery Test
+2019-09-06 08:33:28am, superadmin, Deleted photo 6050284.jpeg from gallery Test
+2019-09-06 08:33:28am, superadmin, Deleted photo 534459dogs.jpeg from gallery Test
+2019-09-06 08:33:47am, superadmin, Added new picture
+2019-09-06 08:39:43am, superadmin, Added new picture
+2019-09-06 09:14:25am, superadmin, Deleted photo 2893523.jpeg from gallery Test
+2019-09-06 09:14:25am, superadmin, Deleted photo 4026259.jpeg from gallery Test
+2019-09-06 09:14:25am, superadmin, Deleted photo 216084IMG_5041.jpg from gallery Test
+2019-09-06 09:21:11am, superadmin, Logged out
+2019-09-06 09:21:21am, superadmin, Logged in
+2019-09-06 09:21:50am, superadmin, Added new picture
+2019-09-06 09:24:05am, superadmin, Added new picture
+2019-09-06 09:25:30am, superadmin, Deleted photo 923594rottweiler.jpeg from gallery Test
+2019-09-06 09:25:30am, superadmin, Deleted photo 940375beagles.jpeg from gallery Test
+2019-09-06 09:26:18am, superadmin, Added new picture
+2019-09-06 09:36:24am, superadmin, Added new news This is a test article
+2019-09-06 09:41:05am, superadmin, Deleted news This is a test article
+2019-09-06 09:42:17am, superadmin, Added new news New article
+2019-09-06 09:45:24am, superadmin, Deleted news New article
+2019-09-06 09:45:57am, superadmin, Added new news Our CMS is live
+2019-09-06 09:51:05am, superadmin, Deleted photo 561576collies.jpeg from gallery Test
+2019-09-06 09:51:18am, superadmin, Deleted gallery Test
+2019-09-06 09:51:37am, superadmin, Deleted photo 786936IMG_5039.jpg from gallery Gallery 3
+2019-09-06 10:43:24am, superadmin, Logged out
+2019-09-06 10:43:33am, superadmin, Logged in
+2019-09-06 10:47:39am, superadmin, Added new picture
+2019-09-06 11:02:37am, superadmin, Logged out
+2019-09-06 11:02:47am, admin, Logged in
+2019-09-06 11:16:04am, admin, Logged out
+2019-09-06 11:20:25am, admin, Logged in
+2019-09-09 06:19:28am, superadmin, Logged in
+2019-09-09 07:27:21am, admin, Logged in
+2019-09-09 08:21:42am, admin, Logged in
+2019-09-09 08:26:54am, admin, Added new news jgh
+2019-09-09 08:27:09am, admin, Deleted news jgh
+2019-09-09 09:27:43am, superadmin, Logged in
+2019-09-09 09:53:51am, superadmin, Added new picture
+2019-09-09 09:58:26am, superadmin, Logged in
+2019-09-09 09:59:17am, superadmin, Deleted photo 93950815620635962838739965674502036883.jpg from gallery Home Gallery
+2019-09-09 09:59:17am, superadmin, Deleted photo 389643dogs.jpeg from gallery Home Gallery
+2019-09-09 09:59:17am, superadmin, Deleted photo 416030home.jpg from gallery Home Gallery
+2019-09-09 09:59:51am, superadmin, Added new picture
+2019-09-09 10:02:06am, superadmin, Logged out
+2019-09-09 10:02:10am, superadmin, Logged in
+2019-09-09 10:02:25am, superadmin, Deleted photo 883081bg2.jpeg from gallery Home Gallery
+2019-09-09 10:02:39am, superadmin, Added new picture
+2019-09-09 10:03:21am, superadmin, Added new picture
+2019-09-09 10:09:00am, superadmin, Logged out
+2019-09-09 10:09:03am, superadmin, Logged in
+2019-09-09 10:09:42am, superadmin, Deleted photo 173767bg2.jpeg from gallery Home Gallery
+2019-09-09 10:09:42am, superadmin, Deleted photo 679914bg2.jpeg from gallery Home Gallery
+2019-09-09 10:09:58am, superadmin, Added new picture
+2019-09-09 10:11:24am, superadmin, Deleted photo 504730bg2.jpeg from gallery Home Gallery
+2019-09-09 10:11:37am, superadmin, Added new picture
+2019-09-09 10:19:38am, superadmin, Added new picture
+2019-09-09 10:33:08am, superadmin, Added new picture
+2019-09-09 10:41:35am, superadmin, Deleted photo 325404bg2.jpeg from gallery Home Gallery
+2019-09-09 10:41:35am, superadmin, Deleted photo 671869dogs.jpeg from gallery Home Gallery
+2019-09-09 10:41:35am, superadmin, Deleted photo 998142bg2.jpeg from gallery Home Gallery
+2019-09-09 10:49:24am, superadmin, Added new picture
+2019-09-09 10:49:49am, superadmin, Added new picture
+2019-09-09 10:50:57am, superadmin, Added new picture
+2019-09-09 11:21:07am, superadmin, Added new picture
+2019-09-09 11:24:53am, superadmin, Added new picture
+2019-09-09 11:25:38am, superadmin, Added new picture
+2019-09-09 11:35:47am, superadmin, Added new picture
+2019-09-09 11:46:08am, superadmin, Added new news Test article 2
+2019-09-09 11:48:04am, superadmin, Added new news How to add new article on your website
+2019-09-09 12:03:11pm, superadmin, Deleted photo 1481675.jpeg from gallery Gallery 3
+2019-09-09 12:03:30pm, superadmin, Deleted photo 613623bg2.jpeg from gallery Home Gallery
+2019-09-09 12:03:31pm, superadmin, Deleted photo 286562dogs.jpeg from gallery Home Gallery
+2019-09-09 12:03:31pm, superadmin, Deleted photo 369993bg2.jpeg from gallery Home Gallery
+2019-09-09 12:03:31pm, superadmin, Deleted photo 7204dogs.jpeg from gallery Home Gallery
+2019-09-09 12:03:31pm, superadmin, Deleted photo 262448dogs.jpeg from gallery Home Gallery
+2019-09-09 12:03:31pm, superadmin, Deleted photo 586870bg2.jpeg from gallery Home Gallery
+2019-09-10 06:41:55am, superadmin, Logged in
+2019-09-11 06:31:52am, superadmin, Logged in
+2019-09-11 06:40:42am, superadmin, Added new picture
+2019-09-11 06:42:57am, superadmin, Deleted photo 784962beagles.jpeg from gallery Home Gallery
+2019-09-11 06:47:16am, superadmin, Logged out
+2019-09-11 06:47:46am, superadmin, Logged in
+2019-09-11 08:01:20am, superadmin, Logged in
+2019-09-11 08:01:30am, superadmin, Logged out
+2019-09-11 08:06:22am, superadmin, Logged in
+2019-09-11 08:06:54am, superadmin, Logged in
+2019-09-11 08:07:08am, superadmin, Logged out
+2019-09-11 08:09:04am, superadmin, Logged in
+2019-09-11 08:09:52am, superadmin, Logged out
+2019-09-11 08:10:06am, superadmin, Logged in
+2019-09-11 08:11:13am, superadmin, Added new picture
+2019-09-11 08:14:12am, superadmin, Logged out
+2019-09-11 08:14:30am, superadmin, Logged in
+2019-09-11 08:15:42am, superadmin, Added new picture
+2019-09-11 09:21:04am, superadmin, Logged in
+2019-09-11 09:22:51am, superadmin, Added new news Hello guys
+2019-09-12 07:57:07am, superadmin, Logged in
+2019-09-12 09:09:29am, admin, Logged in
+2019-09-12 09:13:26am, admin, Logged out
+2019-09-12 09:37:51am, superadmin, Logged out
+2019-09-12 09:37:53am, superadmin, Logged in
+2019-09-12 09:38:28am, superadmin, Logged in
+2019-09-12 09:55:22am, admin, Logged in
+2019-09-12 11:33:48am, admin, Logged in
+2019-09-12 12:56:44pm, admin, Logged in
+2019-09-13 06:50:58am, superadmin, Logged in
+2019-09-13 07:57:58am, admin, Logged in
+2019-09-13 08:32:34am, superadmin, Added new picture
+2019-09-13 08:36:09am, superadmin, Deleted news Hello guys
+2019-09-13 08:36:38am, superadmin, Added new news Test Article zeez
+2019-09-13 08:54:59am, superadmin, Deleted news Test Article zeez
+2019-09-13 09:05:03am, superadmin, Added new user testuser
+2019-09-13 09:05:14am, superadmin, Logged out
+2019-09-13 09:05:31am, testuser, Logged in
+2019-09-13 09:55:09am, superadmin, Logged in
+2019-09-13 09:55:34am, superadmin, Logged out
+2019-09-13 09:55:43am, testuser, Logged in
+2019-09-13 10:06:44am, testuser, Logged out
+2019-09-13 10:06:47am, superadmin, Logged in
+2019-09-13 10:08:11am, superadmin, Updated user testuser
+2019-09-13 10:08:33am, superadmin, Logged out
+2019-09-13 10:08:48am, testuser, Logged in
+2019-09-13 10:20:42am, admin, Logged in
+2019-09-16 06:05:28am, testuser, Logged in
+2019-09-16 06:07:27am, testuser, Logged out
+2019-09-16 06:08:28am, testuser, Logged in
+2019-09-16 06:10:20am, testuser, Added new picture
+2019-09-16 06:22:12am, testuser, Logged out
+2019-09-16 06:23:25am, testuser, Logged in
+2019-09-16 06:24:27am, testuser, Added new picture
+2019-09-16 07:38:11am, testuser, Logged in
+2019-09-16 07:51:52am, testuser, Added new picture
+2019-09-16 07:59:42am, testuser, Added new picture
+2019-09-16 08:00:24am, testuser, Added new picture
+2019-09-16 08:01:12am, testuser, Added new picture
+2019-09-16 08:56:08am, superadmin, Logged in
+2019-09-16 08:57:11am, superadmin, Deleted photo 46743023.jpg from gallery Home Gallery
+2019-09-16 08:57:11am, superadmin, Deleted photo 915608IMG_5039.jpg from gallery Home Gallery
+2019-09-16 08:57:11am, superadmin, Deleted photo 628657IMG_5044.jpg from gallery Home Gallery
+2019-09-16 08:57:16am, superadmin, Deleted photo 913194tomato.jpg from gallery Home Gallery
+2019-09-16 08:57:34am, superadmin, Deleted photo 531371tomato.jpg from gallery Gallery 3
+2019-09-16 08:57:34am, superadmin, Deleted photo 959814tomato.jpg from gallery Gallery 3
+2019-09-16 08:57:34am, superadmin, Deleted photo 792660love.jpg from gallery Gallery 3
+2019-09-16 09:11:19am, superadmin, Logged in
+2019-09-16 09:11:45am, superadmin, Added new picture
+2019-09-16 09:15:00am, superadmin, Deleted photo 77165823.jpg from gallery Home Gallery
+2019-09-16 09:15:11am, superadmin, Added new picture
+2019-09-16 09:23:36am, superadmin, Added new picture
+2019-09-16 09:24:16am, superadmin, Deleted photo 315423.jpg from gallery Home Gallery
+2019-09-16 09:27:11am, superadmin, Added new picture
+2019-09-16 09:28:07am, superadmin, Added new picture
+2019-09-16 09:28:50am, superadmin, Added new picture
+2019-09-16 09:31:21am, superadmin, Deleted photo 77100823.jpg from gallery Home Gallery
+2019-09-16 09:31:21am, superadmin, Deleted photo 63683523.jpg from gallery Home Gallery
+2019-09-16 09:31:39am, superadmin, Deleted photo 42870123.jpg from gallery Gallery 3
+2019-09-16 09:31:39am, superadmin, Deleted photo 3646923.jpg from gallery Gallery 3
+2019-09-16 09:31:54am, superadmin, Added new picture
+2019-09-16 09:40:54am, superadmin, Added new picture
+2019-09-16 09:47:42am, superadmin, Added new picture
+2019-09-16 09:48:27am, superadmin, Added new picture
+2019-09-16 10:52:23am, superadmin, Added new picture
+2019-09-16 10:56:16am, superadmin, Added new picture
+2019-09-16 10:58:09am, superadmin, Added new picture
+2019-09-16 11:04:10am, superadmin, Added new picture
+2019-09-16 11:09:19am, superadmin, Added new picture
+2019-09-16 11:09:23am, superadmin, Added new picture
+2019-09-16 11:10:05am, superadmin, Added new picture
+2019-09-16 11:11:50am, superadmin, Added new picture
+2019-09-16 11:13:59am, superadmin, Deleted photo 51449223.jpg from gallery Home Gallery
+2019-09-16 11:13:59am, superadmin, Deleted photo 57634723.jpg from gallery Home Gallery
+2019-09-16 11:13:59am, superadmin, Deleted photo 5486623.jpg from gallery Home Gallery
+2019-09-16 11:13:59am, superadmin, Deleted photo 1591623.jpg from gallery Home Gallery
+2019-09-16 11:13:59am, superadmin, Deleted photo 64530623.jpg from gallery Home Gallery
+2019-09-16 11:13:59am, superadmin, Deleted photo 77314723.jpg from gallery Home Gallery
+2019-09-16 11:13:59am, superadmin, Deleted photo 60453223.jpg from gallery Home Gallery
+2019-09-16 11:13:59am, superadmin, Deleted photo 16190023.jpg from gallery Home Gallery
+2019-09-16 11:13:59am, superadmin, Deleted photo 68308723.jpg from gallery Home Gallery
+2019-09-16 11:13:59am, superadmin, Deleted photo 14349123.jpg from gallery Home Gallery
+2019-09-16 11:13:59am, superadmin, Deleted photo 45449623.jpg from gallery Home Gallery
+2019-09-16 11:14:06am, superadmin, Deleted photo 12557323.jpg from gallery Home Gallery
+2019-09-16 12:03:07pm, superadmin, Added new news fhgfg
+2019-09-16 12:07:16pm, superadmin, Deleted news fhgfg
+2019-09-16 04:34:39pm, superadmin, Logged in
+2019-09-16 04:34:51pm, superadmin, Logged out
+2019-09-16 04:35:21pm, testuser, Logged in
+2019-09-16 04:35:52pm, superadmin, Logged in
+2019-09-16 04:36:05pm, superadmin, Logged out
+2019-09-16 04:40:21pm, testuser, Logged in
+2019-09-16 04:41:31pm, testuser, Added new picture
+2019-09-17 12:53:36am, testuser, Logged in
+2019-09-17 06:14:08am, testuser, Logged in
+2019-09-17 07:09:07am, , Logged out
+2019-09-17 07:09:10am, testuser, Logged in
+2019-09-17 07:10:26am, testuser, Logged out
+2019-09-17 07:10:28am, testuser, Logged in
+2019-09-17 07:19:02am, testuser, Logged out
+2019-09-17 07:19:06am, superadmin, Logged in
+2019-09-17 07:27:51am, superadmin, Logged out
+2019-09-17 07:27:55am, testuser, Logged in
+2019-09-17 07:28:53am, testuser, Deleted photo 6360023.jpg from gallery Home Gallery
+2019-09-17 10:48:49am, testuser, Logged in
+2019-09-18 08:47:06am, testuser, Logged in
+2019-09-18 08:49:58am, testuser, Added new picture
+2019-09-19 05:06:21am, testuser, Logged in
+2019-09-19 05:09:28am, testuser, Added new picture
+2019-09-19 07:16:11am, superadmin, Logged in
+2019-09-19 07:45:35am, , Logged out
+2019-09-19 07:45:44am, superadmin, Logged in
+2019-09-19 08:38:17am, superadmin, Logged out
+2019-09-19 08:38:59am, testuser, Logged in
+2019-09-19 08:40:30am, testuser, Added new picture
+2019-09-19 08:43:53am, testuser, Added new picture
+2019-09-19 08:45:12am, testuser, Deleted photo 417947IMG_5044.jpg from gallery Home Gallery
+2019-09-19 08:45:12am, testuser, Deleted photo 826311SPARK-MainActivity-04162019125639.png from gallery Home Gallery
+2019-09-19 08:45:12am, testuser, Deleted photo 987926IMG_5050.jpg from gallery Home Gallery
+2019-09-19 08:45:39am, testuser, Deleted photo 638459Test.jpg from gallery Gallery 3
+2019-09-19 08:51:28am, testuser, Added new picture
+2019-09-19 08:53:20am, testuser, Deleted photo 974609IMG_5044.jpg from gallery Gallery 3
+2019-09-19 08:54:10am, testuser, Added new picture
+2019-09-19 08:56:20am, testuser, Logged out
+2019-09-19 08:59:28am, testuser, Logged in
+2019-09-19 09:00:48am, testuser, Added new picture
+2019-09-19 09:02:17am, testuser, Logged out
+2019-09-19 09:02:49am, testuser, Logged in
+2019-09-19 09:04:03am, testuser, Added new picture
+2019-09-19 09:05:31am, testuser, Added new news New article to share on facebook
+2019-09-19 09:10:45am, testuser, Logged out
+2019-09-20 04:41:07pm, testuser, Logged in
+2019-09-23 06:03:54am, testuser, Logged in
+2019-09-23 06:10:03am, superadmin, Logged in
+2019-09-23 06:52:10am, , Logged out
+2019-09-23 06:52:23am, superadmin, Logged in
+2019-09-23 07:55:04am, testuser, Logged in
+2019-09-23 07:56:38am, testuser, Logged in
+2019-09-23 07:59:47am, testuser, Logged out
+2019-09-23 08:05:09am, testuser, Logged in
+2019-09-23 08:06:21am, testuser, Added new picture
+2019-09-23 08:06:33am, admin, Logged in
+2019-09-23 08:06:36am, admin, Logged out
+2019-09-23 08:08:33am, testuser, Deleted photo 29667519.jpg from gallery Gallery 3
+2019-09-23 08:08:33am, testuser, Deleted photo 87332819.jpg from gallery Gallery 3
+2019-09-23 08:08:33am, testuser, Deleted photo 46802822.jpg from gallery Gallery 3
+2019-09-23 08:08:33am, testuser, Deleted photo 952825IMG_5046.jpg from gallery Gallery 3
+2019-09-23 08:08:50am, testuser, Logged out
+2019-09-23 08:10:27am, testuser, Logged in
+2019-09-23 08:12:22am, testuser, Added new news Test Article new
+2019-09-23 08:13:26am, testuser, Added new picture
+2019-09-23 08:43:20am, admin, Logged in
+2019-09-23 08:43:46am, admin, Logged out
+2019-09-23 08:44:10am, admin, Logged in
+2019-09-23 08:44:14am, admin, Logged out
+2019-09-23 08:44:46am, admin, Logged in
+2019-09-23 08:45:05am, admin, Logged in
+2019-09-23 08:45:07am, admin, Logged out
+2019-09-23 09:05:39am, admin, Logged in
+2019-09-23 09:31:09am, testuser, Logged in
+2019-09-23 09:32:23am, testuser, Added new news Testing on Facebook
+2019-09-23 09:33:50am, testuser, Made article "Testing on Facebook" not visible
+2019-09-23 09:33:53am, testuser, Made article "Testing on Facebook" visible
+2019-09-23 09:57:48am, admin, Logged in
+2019-09-23 09:57:57am, admin, Logged out
+2019-09-23 10:07:06am, admin, Logged in
+2019-09-23 10:07:16am, admin, Logged out
+2019-09-23 10:09:42am, admin, Logged in
+2019-09-23 10:34:24am, admin, Logged in
+2019-09-23 10:35:02am, admin, Logged out
+2019-09-23 10:37:03am, admin, Logged in
+2019-09-23 10:40:49am, admin, Logged out
+2019-09-23 10:55:35am, admin, Logged in
+2019-09-23 10:57:17am, admin, Added new news Test iPhone Article
+2019-09-23 10:58:31am, admin, Added new picture
+2019-09-23 11:10:31am, admin, Logged in
+2019-09-23 11:11:57am, admin, Added new news This is test article for iPhone app review
+2019-09-23 11:13:04am, admin, Added new picture
+2019-09-23 11:14:16am, admin, Logged in
+2019-09-23 11:17:05am, admin, Edited submenu item: Home Gallery in menu Gallery
+2019-09-23 11:17:47am, admin, Deleted submenu item Gallery 3
+2019-09-23 11:17:51am, admin, Deleted submenu item Gallery2
+2019-09-23 11:17:56am, admin, Edited submenu item: Gallery 3 in menu Gallery
+2019-09-23 11:18:47am, admin, Logged in
+2019-09-23 11:19:07am, admin, Deleted news This is test article for iPhone app review
+2019-09-23 11:19:12am, admin, Deleted news Test iPhone Article
+2019-09-23 11:19:39am, admin, Deleted photo 165014D27E230-EB39-4447-BE58-ABE5F853AD75.jpeg from gallery Gallery 3
+2019-09-23 11:19:39am, admin, Deleted photo 49510365CE6ED8-C3DC-4352-8DD4-3D0F14330CDC.jpeg from gallery Gallery 3
+2019-09-23 11:20:27am, admin, Logged out
+2019-09-23 11:22:39am, admin, Logged in
+2019-09-23 11:24:02am, admin, Added new news This is iPhone test article
+2019-09-23 11:24:57am, admin, Added new picture
+2019-09-23 11:28:56am, admin, Deleted news This is iPhone test article
+2019-09-23 11:29:06am, admin, Deleted photo 57562834800FC4-3300-42DD-B2B2-AE6D2F678ABC.jpeg from gallery Gallery 3
+2019-09-23 11:30:57am, admin, Logged in
+2019-09-23 11:32:26am, admin, Added new news Apple test news article 
+2019-09-23 11:33:14am, admin, Added new picture
+2019-09-23 11:33:59am, admin, Logged out
+2019-09-23 11:35:14am, admin, Logged in
+2019-09-23 11:35:50am, admin, Edited news: Apple test news article edited
+2019-09-23 11:35:57am, admin, Logged out
+2019-09-23 12:08:31pm, admin, Logged in
+2019-09-23 12:09:40pm, admin, Added new picture
+2019-09-23 12:10:10pm, admin, Logged in
+2019-09-23 12:10:25pm, admin, Added new picture
+2019-09-23 12:11:13pm, admin, Added new picture
+2019-09-23 12:12:14pm, admin, Logged in
+2019-09-23 12:12:38pm, admin, Added new picture
+2019-09-23 12:14:27pm, admin, Deleted photo 3124184CABDE17-EA2F-4827-8556-BFFF0FBB64FA.jpeg from gallery Gallery 3
+2019-09-23 12:14:37pm, admin, Deleted photo 711176animal-dog-domestic-68798.jpg from gallery Gallery 3
+2019-09-23 12:16:00pm, admin, Logged in
+2019-09-23 12:16:58pm, admin, Added new picture
+2019-09-23 12:17:19pm, admin, Logged out
+2019-09-23 12:21:18pm, admin, Logged in
+2019-09-23 12:22:06pm, admin, Added new picture
+2019-09-23 12:22:27pm, admin, Logged out
+2019-09-23 12:25:41pm, admin, Logged in
+2019-09-23 12:26:28pm, admin, Added new picture
+2019-09-23 12:26:39pm, admin, Logged out
+2019-09-23 04:27:11pm, superadmin, Logged in
+2019-09-23 04:31:16pm, superadmin, Added new news eee
+2019-09-23 04:32:38pm, superadmin, Deleted news eee
+2019-09-23 04:32:43pm, superadmin, Deleted news Testing on Facebook
+2019-09-23 04:32:49pm, superadmin, Deleted news Test Article new
+2019-09-23 04:32:53pm, superadmin, Deleted news New article to share on facebook
+2019-09-23 04:33:15pm, superadmin, Added new news Test
+2019-09-23 04:36:11pm, superadmin, Logged in
+2019-09-23 04:38:15pm, superadmin, Logged out
+2019-09-23 04:40:23pm, superadmin, Logged out
+2019-09-23 04:40:28pm, testuser, Logged in
+2019-09-23 04:43:57pm, testuser, Logged out
+2019-09-23 04:44:00pm, superadmin, Logged in
+2019-09-23 04:44:14pm, superadmin, Added new picture
+2019-09-23 04:44:58pm, admin, Logged in
+2019-09-23 04:49:01pm, superadmin, Logged in
+2019-09-23 04:54:38pm, superadmin, Logged out
+2019-09-23 04:54:41pm, superadmin, Logged in
+2019-09-23 04:55:29pm, superadmin, Logged in
+2019-09-23 04:56:33pm, superadmin, Logged out
+2019-09-23 04:56:35pm, superadmin, Logged in
+2019-09-23 04:58:28pm, , Logged out
+2019-09-23 04:58:42pm, admin, Logged in
+2019-09-23 05:00:10pm, admin, Added new news Adis test
+2019-09-24 10:17:56am, testuser, Logged in
+2019-09-24 10:23:26am, testuser, Added new news test facebook
+2019-09-24 10:40:42am, superadmin, Logged in
+2019-09-24 10:41:11am, superadmin, Added new picture
+2019-09-24 10:55:16am, admin, Logged in
+2019-09-24 10:57:29am, , Logged out
+2019-09-24 10:57:56am, admin, Logged in
+2019-09-24 10:59:26am, admin, Added new picture
+2019-09-24 11:58:01am, superadmin, Logged in
+2019-09-24 12:00:44pm, superadmin, Added new news This is a test article
+2019-09-24 02:25:51pm, testuser, Logged in
+2019-09-24 02:27:57pm, testuser, Edited news: testy
+2019-09-24 02:28:39pm, testuser, Added new picture
+2019-09-26 12:02:24pm, admin, Logged in
+2019-09-27 07:40:22am, admin, Logged in
+2019-09-27 07:41:03am, admin, Added new news sdfdfsdf
+2019-09-27 07:45:23am, superadmin, Logged in
+2019-10-03 08:53:49pm, admin, Logged in
+2019-10-03 08:55:25pm, admin, Logged in
+2019-10-03 08:56:02pm, admin, Logged in
+2019-10-03 08:56:55pm, admin, Logged in
+2019-10-03 08:59:53pm, admin, Logged out
+2019-10-04 07:30:41am, admin, Logged in
+2019-10-04 07:31:10am, admin, Added new picture
+2019-10-04 07:31:33am, admin, Added new picture
+2019-10-04 07:31:44am, admin, Deleted photo 451731image.jpg from gallery Gallery 3
+2019-10-04 07:31:49am, admin, Deleted photo 8916image.jpg from gallery Gallery 3
+2019-10-04 07:32:03am, admin, Added new picture
+2019-10-04 07:32:11am, admin, Deleted photo 327207image.jpg from gallery Gallery 3
+2019-10-04 07:32:51am, admin, Added new picture
+2019-10-04 07:32:56am, admin, Deleted photo 314556image.jpg from gallery Gallery 3
+2019-10-04 07:34:32am, admin, Added new picture
+2019-10-04 07:34:42am, admin, Deleted photo 401910image.jpg from gallery Gallery 3
+2019-10-04 07:36:55am, admin, Added new picture
+2019-10-04 09:16:18am, admin, Logged in
+2019-10-04 09:21:31am, admin, Logged in
+2019-10-04 12:42:43pm, admin, Logged in
+2019-10-06 01:14:06pm, admin, Logged in
+2019-10-08 08:13:38am, admin, Logged in
+2019-10-08 08:16:02am, admin, Logged in
+2019-10-08 08:30:35am, superadmin, Logged in
+2019-10-08 11:51:06am, admin, Logged in
+2019-10-08 11:53:55am, admin, Logged in
+2019-10-08 12:02:29pm, admin, Logged in
+2019-10-08 12:06:03pm, admin, Logged in
+2019-10-08 12:18:34pm, admin, Logged in
+2019-10-08 12:31:08pm, admin, Logged in
+2019-10-08 12:41:20pm, admin, Logged in
+2019-10-08 12:44:15pm, admin, Logged in
+2019-10-09 12:36:38am, admin, Logged in
+2019-10-09 12:36:39am, admin, Logged in
+2019-10-09 12:39:28am, admin, Logged in
+2019-10-09 10:23:06pm, admin, Logged in
+2019-10-09 10:25:27pm, admin, Logged out
+2019-10-11 11:39:03am, admin, Logged in
+2019-10-11 11:57:45am, admin, Logged in
+2019-10-11 01:12:36pm, admin, Logged in
+2019-10-11 01:13:32pm, admin, Logged out
+2019-10-29 08:04:15am, admin, Logged in
+2019-10-29 08:43:12am, admin, Logged in
+2019-10-29 08:43:37am, superadmin, Logged in
+2019-10-29 08:43:51am, superadmin, Logged out
+2019-10-29 08:43:53am, superadmin, Logged in
+2019-10-29 08:46:22am, superadmin, Logged out
+2019-10-29 08:46:24am, superadmin, Logged in
+2019-10-29 08:48:12am, superadmin, Added new picture
+2019-10-29 09:04:47am, superadmin, Deleted photo 91530IMG_5041.jpg from gallery Home Gallery
+2019-10-29 09:05:09am, superadmin, Added new picture
+2019-10-29 09:08:27am, superadmin, Deleted photo 71547IMG_5041.jpg from gallery Home Gallery
+2019-10-29 01:14:10pm, admin, Logged in
+2019-11-22 03:26:56pm, admin, Logged in
+2019-11-22 03:39:58pm, admin, Logged out
+2019-11-22 03:40:03pm, admin, Logged in
+2019-11-22 05:27:56pm, admin, Logged in
+2019-12-02 09:31:29am, admin, Logged in
+2019-12-18 07:24:02am, admin, Logged in
+2019-12-18 07:40:18am, admin, Disapproved question: Trst
+2019-12-18 07:40:20am, admin, Approved question: Trst
+2019-12-18 01:20:35pm, admin, Logged in
+2019-12-18 01:23:16pm, admin, Logged out
+2020-01-04 07:04:21pm, admin, Logged in
+2020-01-04 07:37:14pm, admin, Logged in
+2020-01-04 07:55:34pm, , Logged out
+2020-01-04 07:55:43pm, admin, Logged in
+2020-01-04 08:13:01pm, admin, Logged in
+2020-01-04 08:20:15pm, admin, Logged in
+2020-01-04 08:33:25pm, admin, Logged in
+2020-01-04 08:38:48pm, admin, Logged in
+2020-01-04 08:51:08pm, admin, Logged out
+2020-01-04 09:30:37pm, admin, Logged in
+2020-01-05 09:45:58am, admin, Logged in
+2020-01-10 07:16:53pm, admin, Logged in
+2020-02-03 10:18:05pm, admin, Logged in
+2020-02-14 08:03:17am, admin, Logged in
+2020-02-14 09:20:43am, admin, Logged in
+2020-02-14 11:03:04pm, admin, Logged in
+2020-03-04 01:25:49pm, admin, Logged in
+2020-09-11 05:51:41am, admin, Logged in
+2021-05-26 06:35:10am, admin, Logged in
+2021-05-26 06:36:46am, admin, Changed settings
+2021-05-26 06:40:49am, admin, Added new news Početak novog poglavlja
+2022-11-02 02:35:28pm, admin, Logged in
+2022-11-02 02:36:31pm, admin, Added new gallery Slider
+2022-11-02 02:37:28pm, admin, Edited menu item: Sabina
+2022-11-02 02:43:21pm, superadmin, Logged in
+2022-11-02 02:49:12pm, superadmin, Logged in
+2022-11-02 02:50:29pm, superadmin, Edited header image
+2022-11-02 03:06:45pm, admin, Logged in
+2022-11-02 03:07:00pm, admin, Added new picture
+2022-11-02 03:09:34pm, admin, Added new picture
+2022-12-08 04:17:45pm, superadmin, Logged in
+2022-12-08 04:22:19pm, superadmin, Logged in
+2022-12-08 04:27:52pm, superadmin, Logged out
+2022-12-08 04:29:03pm, superadmin, Logged out
+2022-12-08 04:29:50pm, superadmin, Logged out
+2022-12-08 04:31:16pm, superadmin, Logged in
+2022-12-08 04:32:19pm, superadmin, Added new user sabi
+2022-12-08 04:32:23pm, superadmin, Logged out
+2022-12-08 04:32:36pm, sabi, Logged in
+2022-12-08 04:37:28pm, sabi, Logged out
+2022-12-08 04:39:12pm, sabi, Logged out
+2022-12-08 04:39:17pm, sabi, Logged in
+2022-12-08 04:39:20pm, sabi, Logged out
+2022-12-08 04:39:22pm, sabi, Logged in
+2022-12-08 04:39:51pm, sabi, Logged out
+2022-12-08 04:40:26pm, sabi, Logged in
+2022-12-08 04:41:14pm, sabi, Logged out
+2022-12-08 04:41:16pm, sabi, Logged in
+2022-12-08 04:45:06pm, sabi, Logged out
+2022-12-08 04:45:34pm, superadmin, Logged in
+2022-12-08 04:46:24pm, superadmin, Added new user ajdin
+2022-12-08 04:46:30pm, superadmin, Logged out
+2022-12-08 04:46:33pm, ajdin, Logged in
+2022-12-08 04:48:08pm, ajdin, Logged out
+2022-12-08 05:01:26pm, ajdin, Logged in
+2022-12-08 05:05:16pm, ajdin, Logged out
+2022-12-08 05:05:25pm, superadmin, Logged in
+2022-12-08 05:12:11pm, superadmin, Logged in
+2022-12-08 05:19:59pm, superadmin, Added new news Nova vijest
+2022-12-08 05:20:17pm, superadmin, Deleted news Nova vijest
+2022-12-08 05:33:59pm, , Added new news Test
+2022-12-08 05:35:58pm, , Logged out
+2022-12-08 05:37:12pm, sabina, Logged in
+2022-12-08 05:37:28pm, sabina, Logged out
+2022-12-08 05:37:33pm, sabi, Logged in
+2022-12-08 05:38:10pm, sabi, Logged out
+2022-12-08 05:38:16pm, superadmin, Logged in
+2022-12-08 05:39:15pm, superadmin, Added new user mulic
+2022-12-08 05:41:52pm, superadmin, Logged out
+2022-12-08 05:42:22pm, mulic, Logged in
+2022-12-08 05:42:40pm, mulic, Logged out
+2022-12-08 05:42:47pm, mulic, Logged in
+2022-12-08 05:43:09pm, mulic, Logged out
+2022-12-08 05:43:17pm, superadmin, Logged in
+2022-12-08 05:49:14pm, superadmin, Added new user kk
+2022-12-08 05:49:18pm, superadmin, Logged out
+2022-12-08 05:49:25pm, kk, Logged in
+2022-12-08 05:50:35pm, kk, Logged out
+2022-12-08 05:50:37pm, superadmin, Logged in
+2022-12-08 05:51:08pm, superadmin, Added new user xxx
+2022-12-08 05:51:11pm, superadmin, Logged out
+2022-12-08 05:51:38pm, xxx, Logged in
+2022-12-08 05:52:36pm, xxx, Logged out
+2022-12-08 05:52:43pm, mulic, Logged in
+2022-12-08 05:52:52pm, mulic, Logged out
+2022-12-08 06:39:03pm, superadmin, Logged in
+2022-12-08 06:39:07pm, superadmin, Logged out
+2022-12-08 06:41:57pm, xxx, Logged in
+2022-12-08 06:42:01pm, xxx, Logged out
+2022-12-09 06:18:33pm, superadmin, Logged in
+2022-12-09 06:20:06pm, xxx, Logged in
+2022-12-09 06:27:41pm, xxx, Logged out
+2022-12-09 06:27:43pm, superadmin, Logged in
+2022-12-09 06:28:03pm, superadmin, Added new user t
+2022-12-09 06:31:18pm, superadmin, Added new user s
+2022-12-09 06:31:36pm, superadmin, Added new user d
+2022-12-09 06:38:16pm, superadmin, Added new user r
+2022-12-09 06:38:51pm, r, Logged in
+2022-12-09 10:43:39pm, r, Added new user q
+2022-12-09 10:44:10pm, q, Logged in
+2022-12-09 11:09:39pm, q, Logged out
+2022-12-09 11:09:40pm, superadmin, Logged in
+2022-12-10 12:34:31am, superadmin, Added new user a
+2022-12-10 12:36:34am, superadmin, Added new user b
+2022-12-10 12:36:37am, superadmin, Logged out
+2022-12-10 12:36:42am, b, Logged in
+2022-12-10 12:37:15am, b, Logged out
+2022-12-10 12:38:34am, superadmin, Logged in
+2022-12-10 12:38:59am, superadmin, Added new oglasi kkk
+2022-12-10 12:42:16am, superadmin, Logged out
+2022-12-10 12:42:22am, b, Logged in
+2022-12-10 12:47:18am, b, Error description: Unknown column 'Oglasi' in 'field list'
+2022-12-10 12:49:00am, b, Added new oglasi Treba mi termin
+2022-12-10 12:52:29am, b, Added new oglasi Treba mi terminć
+2022-12-10 12:53:45am, b, Logged out
+2022-12-10 12:53:47am, superadmin, Logged in
+2022-12-10 12:58:44am, superadmin, Made oglas "Test" not visible
+2022-12-10 01:00:20am, superadmin, Made oglas "Test" visible
+2022-12-10 01:00:36am, superadmin, Edited oglasi: Test-
+2022-12-10 01:04:02am, superadmin, Edited oglasi: Test-
+2022-12-10 01:18:47am, superadmin, Error description: Column count doesn't match value count at row 1
+2022-12-10 01:35:20am, superadmin, Added new oglasi l,l
+2022-12-10 01:35:50am, superadmin, Added new oglasi č
+2022-12-10 01:44:15am, superadmin, Deleted oglasi l,l
+2022-12-10 01:44:21am, superadmin, Deleted oglasi č
+2022-12-10 01:44:27am, superadmin, Deleted oglasi Test-
+2022-12-10 01:44:32am, superadmin, Deleted oglasi Treba mi terminć
+2022-12-10 01:44:38am, superadmin, Deleted oglasi ojjl
+2022-12-10 01:44:41am, superadmin, Deleted oglasi Test
+2022-12-10 01:46:36am, superadmin, Added new oglasi Lymunix
+2022-12-10 01:47:35am, superadmin, Added new oglasi bingo
+2022-12-10 01:48:40am, superadmin, Added new oglasi Dnevni avaz
+2022-12-10 01:54:28am, superadmin, Added new oglasi BhTelecom
+2022-12-10 02:05:03am, superadmin, Edited oglasi: BhTelecom2
+2022-12-10 02:05:37am, superadmin, Edited oglasi: BhTelecom2
+2022-12-10 02:10:14am, superadmin, Edited oglasi: BhTelecom2
+2022-12-10 02:12:52am, superadmin, Edited oglasi: BhTelecom2
+2022-12-10 02:14:16am, superadmin, Edited oglasi: BhTelecom2
+2022-12-10 02:19:43am, superadmin, Added new oglasi Supa
+2022-12-12 06:53:05pm, superadmin, Logged in
+2022-12-12 06:53:11pm, superadmin, Logged out
+2022-12-12 06:53:20pm, superadmin, Logged in
+2022-12-12 06:53:43pm, superadmin, Added new user mer
+2022-12-12 06:53:46pm, superadmin, Logged out
+2022-12-12 06:53:54pm, mer, Logged in
+2022-12-12 06:54:05pm, mer, Logged out
+2022-12-12 06:55:07pm, superadmin, Logged in
+2022-12-12 06:55:10pm, superadmin, Logged out
+2022-12-12 06:57:57pm, mer, Logged in
+2022-12-12 06:58:02pm, mer, Logged out
+2022-12-12 07:14:56pm, , Logged in
+2022-12-12 07:15:30pm, , Logged out
+2022-12-12 07:16:19pm, , Logged in
+2022-12-12 07:16:22pm, , Logged out
+2022-12-12 07:17:04pm, , Logged in
+2022-12-12 07:17:08pm, , Logged out
+2022-12-12 07:23:22pm, , Logged in
+2022-12-12 07:23:24pm, , Logged in
+2022-12-12 07:23:31pm, , Logged in
+2022-12-12 07:26:43pm, , Logged out
+2022-12-12 07:26:45pm, superadmin, Logged in
+2022-12-12 07:45:51pm, superadmin, Added new oglasi Test
+2022-12-12 07:46:02pm, superadmin, Logged out
+2022-12-12 07:48:53pm, , Added new oglasi Test77
+2022-12-12 07:49:43pm, , Added new oglasi Test66
+2022-12-12 07:53:46pm, , Added new oglasi Treba mi termin
+2022-12-12 07:55:25pm, superadmin, Logged in
+2022-12-12 07:55:41pm, superadmin, Deleted oglasi Treba mi termin
+2022-12-12 07:55:45pm, superadmin, Deleted oglasi Test66
+2022-12-12 07:55:48pm, superadmin, Deleted oglasi Test77
+2022-12-12 07:55:59pm, superadmin, Made oglas "Test" not visible
+2022-12-12 07:59:11pm, superadmin, Added new oglasi Problem sa stranicom (test)
+2022-12-12 08:00:28pm, superadmin, Added new oglasi F
+2022-12-12 08:09:28pm, superadmin, Added new oglasi Treba mi termin
+2022-12-12 08:18:13pm, superadmin, Added new oglasi dlfkfčkčfwek
+2022-12-12 08:28:57pm, superadmin, Added new oglasi v
+2022-12-12 08:31:44pm, , Logged in
+2022-12-12 08:34:49pm, , Logged in
+2022-12-12 08:41:48pm, superadmin, Logged in
+2022-12-12 08:43:45pm, superadmin, Logged out
+2022-12-12 08:44:32pm, superadmin, Logged in
+2022-12-12 08:44:35pm, superadmin, Logged out
+2022-12-12 08:44:59pm, mulic, Logged in
+2022-12-12 08:45:46pm, mulic, Logged out
+2022-12-12 08:45:48pm, superadmin, Logged in
+2022-12-12 08:46:14pm, superadmin, Logged out
+2022-12-12 08:46:21pm, mulic, Logged in
+2022-12-12 09:24:54pm, mulic, Error description: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INSERT INTO notifikacije(comment_subject, comment_text)VALUES ('Novi oglas', ...' at line 1
+2022-12-12 09:40:42pm, mulic, Error description: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' notifikacije(comment_subject, comment_text) VALUES (0,'......','Oglasi','','...' at line 1
+2022-12-12 09:41:31pm, mulic, Error description: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' notifikacije(comment_subject, comment_text) VALUES (0,'......','Oglasi','','...' at line 1
+2022-12-12 09:48:13pm, mulic, Added new oglasi .....
+2022-12-12 09:52:03pm, superadmin, Logged in
+2022-12-12 09:52:25pm, superadmin, Logged out
+2022-12-12 09:52:26pm, superadmin, Logged in
+2022-12-12 09:52:41pm, superadmin, Logged out
+2022-12-12 09:53:13pm, superadmin, Logged in
+2022-12-12 09:56:26pm, superadmin, Deleted oglasi .....
+2022-12-12 09:56:29pm, superadmin, Deleted oglasi v
+2022-12-12 10:04:51pm, superadmin, Deleted oglasi Test
+2022-12-12 10:04:54pm, superadmin, Deleted oglasi dlfkfčkčfwek
+2022-12-12 10:04:57pm, superadmin, Deleted oglasi Treba mi termin
+2022-12-12 10:05:01pm, superadmin, Deleted oglasi F
+2022-12-12 10:05:04pm, superadmin, Deleted oglasi Problem sa stranicom (test)
+2022-12-12 10:11:12pm, superadmin, Added new user jesen
+2022-12-13 12:07:44am, superadmin, Logged in
+2022-12-13 12:39:46am, superadmin, Logged out
+2022-12-13 12:42:03am, superadmin, Logged in
+2022-12-13 12:53:31am, superadmin, Logged in
+2022-12-15 11:45:35pm, , Logged in
+2022-12-15 11:53:04pm, superadmin, Logged in
+2022-12-15 11:53:50pm, , Logged in
+2022-12-15 11:54:21pm, , Logged in
+2022-12-15 11:55:45pm, , Logged in
+2022-12-15 11:59:03pm, test123, Logged in
+2022-12-16 12:08:24am, test123, Logged in
+2022-12-16 12:08:37am, superadmin, Logged in
+2022-12-16 12:17:31am, superadmin, Logged in
+2022-12-16 12:19:38am, superadmin, Logged in
+2022-12-16 12:19:50am, test123, Logged in
+2022-12-16 12:38:15am, slutim, Logged in
+2022-12-16 12:38:39am, slutim, Logged in
+2022-12-16 01:06:57am, superadmin, Logged in
+2022-12-16 01:29:38am, superadmin, Logged out
+2022-12-16 01:33:32am, superadmin, Logged in
+2022-12-16 01:35:35am, superadmin, Logged out
+2022-12-16 01:35:38am, superadmin, Logged in
+2022-12-16 01:49:38am, superadmin, Logged out
+2022-12-16 01:49:40am, superadmin, Logged in
+2022-12-16 01:55:37am, superadmin, Logged out
+2022-12-16 01:55:39am, superadmin, Logged in
+2022-12-16 02:32:45am, superadmin, Logged out
+2022-12-16 02:48:09pm, superadmin, Logged in
+2022-12-16 02:49:24pm, superadmin, Logged out
+2022-12-16 02:50:55pm, superadmin, Logged in
+2022-12-16 02:52:24pm, superadmin, Logged out
+2022-12-16 04:02:23pm, superadmin, Logged in
+2022-12-16 06:36:39pm, superadmin, Logged in
+2022-12-16 06:39:58pm, superadmin, Added new news Linzeri

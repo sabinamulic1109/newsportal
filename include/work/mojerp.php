@@ -1,0 +1,194 @@
+
+
+<?php
+
+define ('URLROOT2', 'https://geosoft-studio.com'); 
+
+?>
+
+
+
+<!DOCTYPE html>
+<html lang="zxx" class=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   <title><?php echo $pageTitle; ?></title>
+
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <meta name="msapplication-TileColor" content="#E9204F">
+   <meta name="theme-color" content="#E9204F">
+   <meta property="og:image" content="https://geosoft-studio.com/assets/images/logos/geosoftStudio_2.png" />	
+   
+   <h1 hidden><?php echo $pageTitle; ?></h1>
+   
+   <meta name="description" content="GeoSOFT Studio is professional a full digital agency for web development, mobile development and graphic design." />
+   <meta name="keywords" content="Web Design, Web Development, Hosting, Mobile Development, Graphic Design, Virtual Tour, SEO &amp; Marketing"/>
+   <meta property="og:title" content="GeoSOFT Studio | DIGITAL AGENCY" />
+   <meta property="og:description" content="GeoSOFT Studio is professional a full digital agency for web development, mobile development, graphic design and marketing." />
+   <meta property="og:type" content="website">
+   <meta property="og:site_name" content="GeoSOFT STUDIO">
+   <meta property="og:url" content="https://geosoft-studio.com">
+   
+   
+   <link rel="apple-touch-icon" sizes="180x180" href="./assets/images/apple-touch-icon.png">
+   <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+   <link rel="icon" type="image/png" sizes="16x16" href="./assets/images/favicon-16x16.png">
+   <link rel="stylesheet" href="./assets/css/normalize.min.css">
+   <link rel="stylesheet" href="./assets/css/pr.animation.css">
+   <link rel="stylesheet" href="./assets/css/owl.carousel.min.css">
+   <link rel="stylesheet" href="./assets/css/uikit.min.css">
+   <link rel="stylesheet" href="./assets/css/fonts.css">
+   <link rel="stylesheet" href="./assets/css/pixeicons.css">
+   <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
+   <link rel="stylesheet" href="./assets/css/simple-lightbox.min.css">
+   <link href="./assets/css/mapa.css" rel="stylesheet"> 
+   <link href="./assets/css/style.css" rel="stylesheet">
+   <script src="https://www.google.com/recaptcha/api.js?render=6LdOePQUAAAAAB3h1FC0GNsxFOz5P0zMAueX_S8u"></script>
+</head>
+<body class="home front-page" data-gr-c-s-loaded="true" >
+
+<div id="loader" class="preloader pr__dark">
+       <span class="loading">
+           <span class="txt"><?php echo $loader; ?></span>
+           <span class="progress">
+               <span class="bar-loading"></span>
+           </span>
+       </span>
+   </div><!-- Preloader End -->
+
+   <?php include "include/services/mobilenav.php" ?>
+
+        <div class="pr__wrapper" id="site-wrapper" style="top: 0px;">
+
+            <div class="pr__hero__wrap pr__dark serviceHeader" style="background-image: url(&#39;assets/images/works/mojerp/mojerp_home.png&#39;); background-repeat: no-repeat; background-size: 1903px 1069px; background-position-y: calc(-193px);" id="site-hero">
+
+                <header class="pr__header pr__dark uk-sticky" data-uk-sticky="top: 100vh; animation: uk-animation-slide-top;" >
+                    <div class="uk-container">
+                        <div class="inner">
+                        <div class="logo" style="opacity: 1; transform: translateX(0px);">
+                                <a href="./index.html">
+                                    <div class="customLogo-div">
+                                    <a target="_blank" href="#">
+                                    <img src="assets/images/geologo.png" alt="Geosoft Logo">
+
+                                          </a>
+                                    </div>
+                                </a>
+                            </div>
+                            <?php include "include/services/nav.php" ?>
+                            <div class="navbar-tigger" data-uk-toggle="target: #navbar-mobile">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                        </div>
+                    </div>
+                </header><div class="uk-sticky-placeholder" style="height: 170px; margin: 0px;" hidden=""></div><!-- Site Header End -->
+
+
+<section class="pr__hero uk-section" id="pr__hero">
+        <div class="uk-container">
+            <div class="section-inner">
+                <div class="hero-content">
+                    <hr class="line pr__hr__secondary--white">
+                    <h2 class="page-title  uk-heading-primary"><?php echo $erp['title']; ?><span class="service__header--span"><?php echo $erp['titleSpan']; ?></span></h2>
+                    <ul class="breadcrumbs uk-breadcrumb">
+                        <li><a href="#"><?php echo $erp['subTitle']; ?> </a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section><!-- Site Hero End -->
+
+</div><!-- Hero Wrap End -->
+
+
+<div class="pr__content" id="webDev">
+
+    <div class="pr__primary uk-section uk-section-large has-sidebar" id="site-primary">
+        <div class="outer">
+            <div class="uk-container uk-position-relative">
+                <div class="inner uk-grid uk-grid-large uk-grid-match" data-uk-grid="">
+                    <div class="uk-width-expand">
+                        <main class="pr__main" id="site-main">
+                            <article class="uk-article page type-page">
+
+                                <div class="outer">
+                                    <div class="inner">
+                                        <div class="entry-body">
+
+                                            <p><?php echo $erp['body']; ?>
+                                            </p>
+
+
+                                            </div>
+                                              </div>
+                                              <h5 class="uk-h4"><?php echo $erp['galleryTitle']; ?></h5>
+                                             <div class="galerija row ">
+                                               
+                                            <a href="assets/images/works/mojerp/mojerp_home.png" class="big col-xl-4 col-lg-6 col-sm-12"> <img  class="galerija--img" src="assets/images/works/mojerp/thumb/mojerp_home.jpg" alt=""  /></a>
+                                            <a href="assets/images/works/mojerp/mojerp_evidencijaRada.png" class="big col-xl-4 col-lg-6 col-sm-12"><img class="galerija--img"  src="assets/images/works/mojerp/thumb/mojerp_evidencijaRada.jpg" alt=""  /></a>
+                                            <a href="assets/images/works/mojerp/mojerp_oglasnaPloca.png" class="big col-xl-4 col-lg-6 col-sm-12"><img class="galerija--img"  src="assets/images/works/mojerp/thumb/mojerp_oglasnaPloca.jpg" alt=""  /></a>
+                                            <a href="assets/images/works/mojerp/mojerp_pocetna.png" class="big col-xl-4 col-lg-6 col-sm-12"><img class="galerija--img"  src="assets/images/works/mojerp/thumb/mojerp_pocetna.jpg" alt=""  /></a>
+                                            <a href="assets/images/works/mojerp/mojerp_ponuda.png" class="big col-xl-4 col-lg-6 col-sm-12"><img class="galerija--img"  src="assets/images/works/mojerp/thumb/mojerp_ponuda.jpg" alt=""  /></a>
+                                            <a href="assets/images/works/mojerp/mojerp_posao.png" class="big col-xl-4 col-lg-6 col-sm-12"><img class="galerija--img"  src="assets/images/works/mojerp/thumb/mojerp_posao.jpg" alt=""  /></a>
+                                            <a href="assets/images/works/mojerp/mojerp_projekt.png" class="big col-xl-4 col-lg-6 col-sm-12"><img class="galerija--img"  src="assets/images/works/mojerp/thumb/mojerp_projekt.jpg" alt=""  /></a>
+                                            <a href="assets/images/works/mojerp/mojerp_putniNalog.png" class="big col-xl-4 col-lg-6 col-sm-12"><img class="galerija--img"  src="assets/images/works/mojerp/thumb/mojerp_putniNalog.jpg" alt=""  /></a>
+                                            <a href="assets/images/works/mojerp/mojerp_racun.png" class="big col-xl-4 col-lg-6 col-sm-12"><img class="galerija--img"  src="assets/images/works/mojerp/thumb/mojerp_radnik.jpg" alt=""  /></a>
+                                            <a href="assets/images/works/mojerp/mojerp_radnik.png" class="big col-xl-4 col-lg-6 col-sm-12"><img class="galerija--img"  src="assets/images/works/mojerp/thumb/mojerp_projekt.jpg" alt=""  /></a>
+                                            <a href="assets/images/works/mojerp/mojerp_razgovor.png" class="big col-xl-4 col-lg-6 col-sm-12"><img class="galerija--img"  src="assets/images/works/mojerp/thumb/mojerp_razgovor.jpg" alt=""  /></a>
+                                            <a href="assets/images/works/mojerp/mojerp_skladiste.png" class="big col-xl-4 col-lg-6 col-sm-12"><img class="galerija--img"  src="assets/images/works/mojerp/thumb/mojerp_skladiste.jpg" alt=""  /></a>
+                                            <a href="assets/images/works/mojerp/mojerp_statatika.png" class="big col-xl-4 col-lg-6 col-sm-12"><img class="galerija--img"  src="assets/images/works/mojerp/thumb/mojerp_statatika.jpg" alt=""  /></a>
+                                            <a href="assets/images/works/mojerp/mojerp_stranka.png" class="big col-xl-4 col-lg-6 col-sm-12"><img class="galerija--img"  src="assets/images/works/mojerp/thumb/mojerp_stranka.jpg" alt=""  /></a>
+                                            <a href="assets/images/works/mojerp/mojerp_ticketing.png" class="big col-xl-4 col-lg-6 col-sm-12"><img class="galerija--img"  src="assets/images/works/mojerp/thumb/mojerp_ticketing.jpg" alt=""  /></a>
+
+
+                                           </div>
+
+
+                                                
+                                    </div>
+                                 
+                            </article>
+                        </main>
+                        <?php include "include/components/relatedprojects.php" ?>
+                    </div>
+		
+
+
+
+
+                    
+
+             <div class="uk-width-1-4@l">
+             <aside class="pr-sidebar widget-area" id="site-sidebar">
+                            <div style="z-index: 1;" data-uk-sticky="offset: 120; bottom: true">
+                                <section class="widget widget_nav_menu">
+                                    <h2 class="widget-title"><?php echo $workSidebar['title']; ?></h2>
+                                    <ul class="content">
+                                       <li> 
+                                            <h5><?php echo $workSidebar['clientTitle']; ?></h5>
+                                            <p><?php echo $erp['clientName']; ?></p>
+                                        </li>
+                                        <li> 
+                                            <h5><?php echo $workSidebar['typeTitle']; ?></h5>
+                                            <p><?php echo $erp['type']; ?></p>
+                                        </li>
+                                        <li> 
+                                            <h5><?php echo $workSidebar['dateTitle']; ?></h5>
+                                            <p><?php echo $erp['date']; ?></p>
+                                        </li>
+                                        <li> 
+                                            <h5><?php echo $workSidebar['webTitle']; ?></h5>
+                                            <p><?php echo $erp['websiteLink']; ?></p>
+                                        </li>
+                                
+                                    
+                                    </ul>
+                                </section>
+                            </div>
+                        </aside>
+        </div>
+        </div>
+      </div>
+     </div>
+</div>

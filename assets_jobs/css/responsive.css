@@ -1,0 +1,99 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+  
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+    .logo a {
+        padding-top: 15px;
+    }
+    nav ul.main-menu li {
+        padding: 15px 10px;
+    }
+    .about-profile {
+        text-align: center;
+        width: 80%;
+        margin: 0 auto;        
+        margin-bottom: 35px;
+    }
+    .about-content {
+        text-align: center;
+        width: 80%;
+        margin: 0 auto;
+    }
+    .single-service {
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 35px;    
+    }
+    .single-fact {
+        margin-bottom: 35px;
+    }
+
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+    body {
+        font-size: 13px;
+    }
+	#header-area{
+		background:#333;
+	}
+	.logo{
+		text-align:center
+	}
+    #header-area .navbar-toggle .icon-bar {
+        background: #971304;
+    }
+    #header-area .navbar-toggle {
+        border: 2px solid #971304;
+        margin-right: 5px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    #header-area .navbar-collapse {
+        position: absolute;
+        top: 66px;
+        right: 0;
+        width: calc(100% + 15px); 
+        border-top: 0px solid transparent;
+        padding-left: 0px;
+        padding-right: 0px;
+        background: #333;
+        text-align: center;     
+    }
+	nav ul.main-menu li a {
+		text-align:center;
+	}
+    #header-area .navbar-collapse ul.main-menu li {
+        display: block;
+        text-align: right;
+    }
+    #header-area .navbar-collapse ul.main-menu li a:hover::before {
+        opacity: 0;
+    }
+    .profile-thumb img {
+        width: 150px;
+        height: 150px;
+    }
+    .section-title h2 {
+        font-size: 26px;
+    }
+    .slide-content h1, .slide-content h4, a.hire-btn {
+        display: none;
+    }
+    .about-profile, .single-service, .single-fact {    
+        margin-bottom: 35px;
+    }    
+    
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+    .profile-thumb img {
+        width: 180px;
+        height: 180px;
+    }
+
+}

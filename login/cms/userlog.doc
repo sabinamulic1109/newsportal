@@ -1,0 +1,341 @@
+<html><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><head><style>
+					*{font-family: Arial,sans-serif;text-align:center;	}
+					body{background-color:#fff;	}
+					h2{text-align:center;text-transform:uppercase;	}
+					.tim{text-transform:uppercase;}
+					 th, td {border-collapse: collapse;}
+					table{width:100%;border-radius: 10px;box-shadow: 0px 5px 10px rgba(0,0,0,0.2);text-align:center;position:relative;left:50%;transform:translateX(-50%);margin-bottom:20px;border-collapse: collapse;}
+					th{background-color: #941046;color: #fff;text-transform: uppercase;padding: 12px;	}
+					td{border-top: 1px solid black;padding: 5px;	}
+					</style>
+				</head><body><h2>User Log</h2><table>
+						  <tr>
+							<th>User</th>
+							<th>Action</th>
+							<th>Date</th>					
+					</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Logged in</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Added new content: VicitCMS2</td>
+						<td>12-09,28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Deleted photo 240234aIMG_2461.jpg from gallery VicitCMS</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Deleted photo 57586image-1.jpg from gallery VicitCMS</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Added new picture</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Added new picture</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Deleted gallery Proba opet</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Deleted gallery Proba</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Added new gallery Proba</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Added new gallery About Us</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Added new gallery VicitCMS</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Added new gallery Proba opet</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Added new news VicitCMS</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited news: Proba opet</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td></td>
+						<td>Edited news: Proba opet</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td></td>
+						<td>Edited news: Proba opet2</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td></td>
+						<td>Edited news: Proba opet</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Deleted news sdgsdg</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Deleted news ewtwtw</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Added new news ewtwtw</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Added new news sdgsdg</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Added new news Proba opet</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited submenu item: VicitCMS2 in menu VicitCMS2</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited submenu item: VicitCMS in menu VicitCMS2</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited submenu item: VicitCMS in menu VicitCMS2</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited submenu item: VicitCMS in menu VicitCMS2</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Added new submenu item Proba opet to menu VicitCMS2</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited submenu item: Proba opet in menu VicitCMS</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited submenu item: Proba opet in menu VicitCMS</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited submenu item: Proba opet in menu VicitCMS</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited submenu item: Proba opet in menu VicitCMS</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited submenu item: Proba opet2 in menu </td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Deleted submenu item Proba opet</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Added new menu item VicitCMS</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Added new menu item Proba opet</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Added new menu item Proba opet</td>
+						<td>28.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited menu item: VicitCMS2</td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited menu item: VicitCMS2</td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited menu item: VicitCMS2</td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited menu item: </td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited menu item: </td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited menu item: </td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited menu item: </td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Deleted menu item Proba opet</td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Added new menu item Proba opet</td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Deleted menu item Proba opet</td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Added new menu item Proba opet</td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Added new menu item VicitCMS2</td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited slide: VicitCMS2</td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited slide: VicitCMS2</td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited slide: VicitCMS2</td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited slide: VicitCMS2</td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited slide: VicitCMS2</td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited slide: VicitCMS2</td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited slide: VicitCMS2</td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited slide: VicitCMS</td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited slide: VicitCMS</td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Deleted slide Proba opetz</td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Deleted content </td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Added new content: Proba</td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Edited content: About Us</td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Added new content: VicitCMS</td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Deleted user adminMain</td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td>admin</td>
+						<td>Added new user adminMain</td>
+						<td>27.11.2018</td>
+				</tr>
+					  <tr>
+						<td></td>
+						<td>Deleted user proba</td>
+						<td>27.11.2018</td>
+				</tr></table><hr></body></html>
